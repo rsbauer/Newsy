@@ -31,14 +31,14 @@
 		6680B7841B860743006E2A46 /* iphoneV21.json in Resources */ = {isa = PBXBuildFile; fileRef = 6680B7831B860743006E2A46 /* iphoneV21.json */; };
 		6680B7861B86081C006E2A46 /* MapperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7851B86081C006E2A46 /* MapperTests.swift */; };
 		6680B7881B860837006E2A46 /* ServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7871B860837006E2A46 /* ServiceTests.swift */; };
-		6680B78B1B8609BC006E2A46 /* feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6680B78A1B8609BC006E2A46 /* feeds.plist */; };
-		6680B78C1B860D92006E2A46 /* feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6680B78A1B8609BC006E2A46 /* feeds.plist */; };
 		6680B78D1B862986006E2A46 /* Feed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B77F1B8603F7006E2A46 /* Feed.swift */; };
 		6680B78E1B862B73006E2A46 /* iphoneV21.json in Resources */ = {isa = PBXBuildFile; fileRef = 6680B7831B860743006E2A46 /* iphoneV21.json */; };
 		6680B7911B8636AE006E2A46 /* ABCNewsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7901B8636AE006E2A46 /* ABCNewsService.swift */; };
 		6680B7931B8636CC006E2A46 /* NewsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7921B8636CC006E2A46 /* NewsService.swift */; };
 		6680B7941B864B12006E2A46 /* ABCNewsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7901B8636AE006E2A46 /* ABCNewsService.swift */; };
 		6680B7951B864B15006E2A46 /* NewsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7921B8636CC006E2A46 /* NewsService.swift */; };
+		6680B7981B866532006E2A46 /* feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6680B7971B866532006E2A46 /* feeds.plist */; };
+		6680B7991B866532006E2A46 /* feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6680B7971B866532006E2A46 /* feeds.plist */; };
 		CC93AC4FB6EF1ADFCEB7D26A /* Pods_Newsy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -82,9 +82,9 @@
 		6680B7831B860743006E2A46 /* iphoneV21.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = iphoneV21.json; path = Responses/iphoneV21.json; sourceTree = "<group>"; };
 		6680B7851B86081C006E2A46 /* MapperTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapperTests.swift; sourceTree = "<group>"; };
 		6680B7871B860837006E2A46 /* ServiceTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceTests.swift; sourceTree = "<group>"; };
-		6680B78A1B8609BC006E2A46 /* feeds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = feeds.plist; path = Config/feeds.plist; sourceTree = "<group>"; };
 		6680B7901B8636AE006E2A46 /* ABCNewsService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNewsService.swift; path = Classes/Services/ABCNewsService.swift; sourceTree = "<group>"; };
 		6680B7921B8636CC006E2A46 /* NewsService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NewsService.swift; path = Classes/Services/NewsService.swift; sourceTree = "<group>"; };
+		6680B7971B866532006E2A46 /* feeds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = feeds.plist; path = "Supporting Files/Config/feeds.plist"; sourceTree = "<group>"; };
 		74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Newsy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E124B60CA4E1768F76062950 /* Pods-Newsy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Newsy.release.xcconfig"; path = "Pods/Target Support Files/Pods-Newsy/Pods-Newsy.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -168,7 +168,7 @@
 		6662C1381B84DEE000D4997B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6680B7891B86099B006E2A46 /* Config */,
+				6680B7961B866524006E2A46 /* Config */,
 				6662C1391B84DEE000D4997B /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -219,15 +219,6 @@
 			name = Responses;
 			sourceTree = "<group>";
 		};
-		6680B7891B86099B006E2A46 /* Config */ = {
-			isa = PBXGroup;
-			children = (
-				6680B78A1B8609BC006E2A46 /* feeds.plist */,
-			);
-			name = Config;
-			path = NewsyTests;
-			sourceTree = SOURCE_ROOT;
-		};
 		6680B78F1B86368B006E2A46 /* Services */ = {
 			isa = PBXGroup;
 			children = (
@@ -235,6 +226,14 @@
 				6680B7921B8636CC006E2A46 /* NewsService.swift */,
 			);
 			name = Services;
+			sourceTree = "<group>";
+		};
+		6680B7961B866524006E2A46 /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				6680B7971B866532006E2A46 /* feeds.plist */,
+			);
+			name = Config;
 			sourceTree = "<group>";
 		};
 		F8A5656E6B11B2C6436252A9 /* Frameworks */ = {
@@ -344,7 +343,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6680B78E1B862B73006E2A46 /* iphoneV21.json in Resources */,
-				6680B78C1B860D92006E2A46 /* feeds.plist in Resources */,
+				6680B7981B866532006E2A46 /* feeds.plist in Resources */,
 				6662C1431B84DEE000D4997B /* Main.storyboard in Resources */,
 				6662C1481B84DEE000D4997B /* LaunchScreen.xib in Resources */,
 				6662C1451B84DEE000D4997B /* Images.xcassets in Resources */,
@@ -355,7 +354,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6680B78B1B8609BC006E2A46 /* feeds.plist in Resources */,
+				6680B7991B866532006E2A46 /* feeds.plist in Resources */,
 				6680B7841B860743006E2A46 /* iphoneV21.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
