@@ -1,0 +1,874 @@
+{
+
+    "config": 
+
+{
+
+    "sections": 
+
+[
+
+{
+
+    "ref": "trending",
+    "title": "Trending",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16323034&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_trending.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_trending@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_trending",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "u.s.",
+    "title": "U.S.",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16174156&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_us.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_us@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_us",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "video",
+    "title": "Video",
+    "featureURL": "http://abcnews.go.com/xmldata/feed/channel?sid=19915303&view=json&list=video&segment=iphone",
+    "sectionsURL": "http://abcnews.go.com/xmldata/feed/channel?sid=20073418&list=video&view=json&segment=iphone",
+    "showsURL": "http://abcnews.go.com/xmldata/feed/channel?sid=20068877&list=video&view=json&segment=iphone",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_video.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_video@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_video",
+    "ad-kv-pageType": "video",
+    "templateType": 6
+
+},
+{
+
+    "ref": "politics",
+    "title": "Politics",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278456&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_politics.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_politics@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_politics",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "local-video",
+    "title": "Local Video",
+    "url": "http://abcnews.go.com/xmldata/feed/local?endpoint=iphone",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_localvideo.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_localvideo@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_local",
+    "ad-kv-pageType": "localvideo",
+    "templateType": 8
+
+},
+{
+
+    "ref": "international",
+    "title": "International",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278782&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_international.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_international@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_international",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "investigative",
+    "title": "Investigative",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278500&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_investigative.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_investigative@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_investigative",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "entertainment",
+    "title": "Entertainment",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278562&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_entertainment.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_entertainment@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_entertainment",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "lifestyle",
+    "title": "Lifestyle",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=19942203&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_lifestyle.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_lifestyle@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_lifestyle",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "health",
+    "title": "Health",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278508&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_health.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_health@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_health",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "money",
+    "title": "Money",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278558&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_money.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_money@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_business",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "technology",
+    "title": "Technology",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278589&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_technology.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_technology@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_technology",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "sports",
+    "title": "Sports",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278650&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_sports.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_sports@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_sports",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+{
+
+    "ref": "travel",
+    "title": "Travel",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278830&list=section&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_travel.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_travel@2x.png?v=2",
+    "ad-csid": "news_iphoneapp_travel",
+    "ad-kv-pageType": "sectionindex",
+    "sharethroughKey": "ead10e44",
+    "templateType": 1
+
+},
+
+    {
+        "ref": "slideshows",
+        "title": "Slideshows",
+        "url": "http://abcnews.go.com/xmldata/feed/channel?sid=19937770&list=slideshow&view=json&segment=iphone",
+        "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_slideshows.png?v=2",
+        "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_slideshows@2x.png?v=2",
+        "ad-csid": "news_iphoneapp_slideshows",
+        "ad-kv-pageType": "slideshows",
+        "templateType": 7
+    }
+
+],
+"shows": 
+[
+
+{
+
+    "ref": "gma",
+    "title": "Good Morning America",
+    "short-title": "GMA",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16278885&list=show&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "ad-csid": "news_iphoneapp_gma",
+    "ad-kv-pageType": "sectionindex",
+    "ad-kv-show": "GMA",
+    "sharethroughKey": "ead10e44",
+    "templateType": 2,
+    "external": false,
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/logos/logo_gma.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/logos/logo_gma@2x.png?v=2"
+
+},
+{
+
+    "ref": "worldnews",
+    "title": "World News Tonight",
+    "font-size": "small",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16280248&list=show&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "ad-csid": "news_iphoneapp_wn",
+    "ad-kv-pageType": "sectionindex",
+    "ad-kv-show": "WN",
+    "sharethroughKey": "ead10e44",
+    "templateType": 2,
+    "external": false,
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/logos/logo_worldnews.png?v=3",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/logos/logo_worldnews@2x.png?v=3"
+
+},
+{
+
+    "ref": "nightline",
+    "title": "Nightline",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16198172&list=show&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "ad-csid": "news_iphoneapp_nightline",
+    "ad-kv-pageType": "sectionindex",
+    "ad-kv-show": "NL",
+    "sharethroughKey": "ead10e44",
+    "templateType": 2,
+    "external": false,
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/logos/logo_nightline.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/logos/logo_nightline@2x.png?v=2"
+
+},
+{
+
+    "ref": "thisweek",
+    "title": "This Week",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16280271&list=show&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "ad-csid": "news_iphoneapp_thisweek",
+    "ad-kv-pageType": "sectionindex",
+    "ad-kv-show": "TW",
+    "sharethroughKey": "ead10e44",
+    "templateType": 2,
+    "external": false,
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/logos/logo_thisweek.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/logos/logo_thisweek@2x.png?v=2"
+
+},
+
+    {
+        "ref": "20_20",
+        "title": "20/20",
+        "url": "http://abcnews.go.com/xmldata/feed/channel?sid=16280275&list=show&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+        "ad-csid": "news_iphoneapp_2020",
+        "ad-kv-pageType": "sectionindex",
+        "ad-kv-show": "2020",
+        "sharethroughKey": "ead10e44",
+        "templateType": 2,
+        "external": false,
+        "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/logos/logo_20_20.png?v=2",
+        "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/logos/logo_20_20@2x.png?v=2"
+    }
+
+],
+"topStories": 
+{
+
+    "ref": "topstories",
+    "title": "Top Stories",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=19382808&list=daypart&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "saturdayMorningUrl": "http://abcnews.go.com/xmldata/feed/channel?sid=23815175&list=daypart&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "sundayMorningUrl": "http://abcnews.go.com/xmldata/feed/channel?sid=23815177&list=daypart&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "ad-csid": "news_iphoneapp_topstories",
+    "ad-kv-pageType": "homepage",
+    "ad-csid-saturdayMorningEdition": "news_iphoneapp_moodplaylist",
+    "ad-csid-sundayMorningEdition": "news_iphoneapp_moodplaylist",
+    "sharethroughKey": "d4519606",
+    "templateType": 3,
+    "thumbnailUrl": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_abc.png?v=2",
+    "thumbnailUrl2x": "http://a.abcnews.com/assets/images/mobile/apps/icons/ic_abc@2x.png?v=2"
+
+},
+"bestReads": 
+{
+
+    "title": "Best Reads",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=19385693&list=bestreads&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true",
+    "ad-csid": "news_iphoneapp_bestreads",
+    "templateType": 4
+
+},
+"rewindUnwind": 
+{
+
+    "ref": "dailyrewind",
+    "title": "Daily Rewind",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=19385695&list=dailyrewind&view=json&segment=iphone",
+    "ad-csid": "news_iphoneapp_dailyrewind",
+    "templateType": 5
+
+},
+"alerts": 
+{
+
+    "ref": "alerts",
+    "title": "Breaking News and Live Video Bar",
+    "url": "http://abcnews.go.com/xmldata/feed/channel?sid=24268281&list=alerts&view=json&segment=iphone",
+    "refreshRate": 150
+
+},
+"ad": 
+{
+
+    "networkID": "168234",
+    "playerProfile": "168234:ABC_Live_IOS_News",
+    "domainName": "http://2912a.v.fwmrm.net",
+    "videoFallbackID": "47452711",
+    "displayFallbackID": "256177",
+    "live-video-ad-csid": "news_iphoneapp_livevideo",
+    "banner": 
+
+    {
+        "slid": "mobilebanner",
+        "width": "320",
+        "height": "50",
+        "cd": "300,50|320,50",
+        "slau": "Mobile Banner 300x50|Mobile Banner 320x50"
+    }
+
+},
+"inbox-analytics": 
+{
+
+    "abcn:analytics-pageName": "alert-inbox",
+    "abcn:analytics-eVar16": "alert-inbox",
+    "abcn:analytics-channel": "abcn_app:alert-inbox",
+    "abcn:analytics-events": "event3",
+    "abcn:analytics-prop1": "abcn_app",
+    "abcn:analytics-eVar10": "abcn_app",
+    "abcn:analytics-prop4": "alert-inbox",
+    "abcn:analytics-prop5": "abcn_app:alert-inbox",
+    "abcn:analytics-prop6": "abcn_app:alert-inbox::",
+    "abcn:analytics-eVar17": "alert-inbox:abcn_app:alert-inbox"
+
+},
+"apis": 
+{
+
+    "feedsBuildDate": "http://abcnews.go.com/xmldata/config/feedBuildDate?view=json&renderContents=false",
+    "scribbleLive": "http://app.abcnews.go.com/app/scribbleLiveInternal?max=3&since=",
+    "storyInlineLinkRule": "http://abcnews.go.com/xmldata/feed/item?text=full&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true&path=",
+    "itemFullText": "http://abcnews.go.com/xmldata/feed/item?text=full&view=json&segment=iphone&embeds=true&collection=true&focusintocollection=true&id=",
+    "search": "http://api.abc.com/resources/news.json?api_key=abcnIphoneApp&after=2012-01-01&q="
+
+},
+"dayparts": 
+[
+
+{
+
+    "id": "1",
+    "day": "sunday",
+    "schedule": 
+
+[
+
+{
+
+    "startTime": "12:00am",
+    "endTime": "4:59am",
+    "daypartType": "dailyrewind",
+    "daypartName": "Evening Edition"
+
+},
+{
+
+    "startTime": "5:00am",
+    "endTime": "3:59pm",
+    "daypartType": "sundayMorningEdition",
+    "daypartName": "Sunday Edition"
+
+},
+{
+
+    "startTime": "4:00pm",
+    "endTime": "7:59pm",
+    "daypartType": "topstories",
+    "daypartName": ""
+
+},
+
+        {
+            "startTime": "8:00pm",
+            "endTime": "11:59pm",
+            "daypartType": "dailyrewind",
+            "daypartName": "Evening Edition"
+        }
+    ]
+
+},
+{
+
+    "id": "2",
+    "day": "monday",
+    "isDefault": "1",
+    "schedule": 
+
+[
+
+{
+
+    "startTime": "12:00am",
+    "endTime": "2:59am",
+    "daypartType": "dailyrewind",
+    "daypartName": "Evening Edition"
+
+},
+{
+
+    "startTime": "3:00am",
+    "endTime": "7:59pm",
+    "daypartType": "topstories",
+    "daypartName": ""
+
+},
+
+        {
+            "startTime": "8:00pm",
+            "endTime": "11:59pm",
+            "daypartType": "dailyrewind",
+            "daypartName": "Evening Edition"
+        }
+    ]
+
+},
+{
+
+    "id": "3",
+    "day": "tuesday",
+    "schedule": 
+
+[
+
+{
+
+    "startTime": "12:00am",
+    "endTime": "2:59am",
+    "daypartType": "dailyrewind",
+    "daypartName": "Evening Edition"
+
+},
+{
+
+    "startTime": "3:00am",
+    "endTime": "7:59pm",
+    "daypartType": "topstories",
+    "daypartName": ""
+
+},
+
+        {
+            "startTime": "8:00pm",
+            "endTime": "11:59pm",
+            "daypartType": "dailyrewind",
+            "daypartName": "Evening Edition"
+        }
+    ]
+
+},
+{
+
+    "id": "4",
+    "day": "wednesday",
+    "schedule": 
+
+[
+
+{
+
+    "startTime": "12:00am",
+    "endTime": "2:59am",
+    "daypartType": "dailyrewind",
+    "daypartName": "Evening Edition"
+
+},
+{
+
+    "startTime": "3:00am",
+    "endTime": "7:59pm",
+    "daypartType": "topstories",
+    "daypartName": ""
+
+},
+
+        {
+            "startTime": "8:00pm",
+            "endTime": "11:59pm",
+            "daypartType": "dailyrewind",
+            "daypartName": "Evening Edition"
+        }
+    ]
+
+},
+{
+
+    "id": "5",
+    "day": "thursday",
+    "schedule": 
+
+[
+
+{
+
+    "startTime": "12:00am",
+    "endTime": "2:59am",
+    "daypartType": "dailyrewind",
+    "daypartName": "Evening Edition"
+
+},
+{
+
+    "startTime": "3:00am",
+    "endTime": "7:59pm",
+    "daypartType": "topstories",
+    "daypartName": ""
+
+},
+
+        {
+            "startTime": "8:00pm",
+            "endTime": "11:59pm",
+            "daypartType": "dailyrewind",
+            "daypartName": "Evening Edition"
+        }
+    ]
+
+},
+{
+
+    "id": "6",
+    "day": "friday",
+    "schedule": 
+
+[
+
+{
+
+    "startTime": "12:00am",
+    "endTime": "2:59am",
+    "daypartType": "dailyrewind",
+    "daypartName": "Evening Edition"
+
+},
+{
+
+    "startTime": "3:00am",
+    "endTime": "7:59pm",
+    "daypartType": "topstories",
+    "daypartName": ""
+
+},
+
+        {
+            "startTime": "8:00pm",
+            "endTime": "11:59pm",
+            "daypartType": "dailyrewind",
+            "daypartName": "Evening Edition"
+        }
+    ]
+
+},
+{
+
+    "id": "7",
+    "day": "saturday",
+    "schedule": 
+
+[
+
+{
+
+    "startTime": "12:00am",
+    "endTime": "4:59am",
+    "daypartType": "dailyrewind",
+    "daypartName": "Evening Edition"
+
+},
+{
+
+    "startTime": "5:00am",
+    "endTime": "3:59pm",
+    "daypartType": "saturdayMorningEdition",
+    "daypartName": "Saturday Edition"
+
+},
+{
+
+    "startTime": "4:00pm",
+    "endTime": "7:59pm",
+    "daypartType": "topstories",
+    "daypartName": ""
+
+},
+
+            {
+                "startTime": "8:00pm",
+                "endTime": "11:59pm",
+                "daypartType": "dailyrewind",
+                "daypartName": "Evening Edition"
+            }
+        ]
+    }
+
+],
+"events": 
+[
+
+{
+
+    "id": "watcherDailyRewind",
+    "contentType": "video",
+    "contentSection": "",
+    "videoPlayerLocation": "player|dailyrewind",
+    "event": "event1",
+    "eventThreshold": "8",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "watcherDailyRewind",
+        "push-tag-name": "av-watcherDailyRewind"
+    }
+
+},
+{
+
+    "id": "watcherLive",
+    "contentType": "video",
+    "contentSection": "",
+    "videoPlayerLocation": "player|livevideo",
+    "event": "event1",
+    "eventThreshold": "10",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "watcherLive",
+        "push-tag-name": "av-watcherLive"
+    }
+
+},
+{
+
+    "id": "slideshowFan",
+    "contentType": "slideshow",
+    "contentSection": "",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "50",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "slideshowfan",
+        "push-tag-name": "av-slideshowfan"
+    }
+
+},
+{
+
+    "id": "videoFan",
+    "contentType": "video",
+    "contentSection": "",
+    "videoPlayerLocation": "",
+    "event": "event1",
+    "eventThreshold": "15",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "videofan",
+        "push-tag-name": "av-videofan"
+    }
+
+},
+{
+
+    "id": "bestReadsFan",
+    "contentType": "story",
+    "contentSection": "abcn_app:bestreads",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "15",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "bestReadsFan",
+        "push-tag-name": "av-bestReadsFan"
+    }
+
+},
+{
+
+    "id": "readerPolitics",
+    "contentType": "story",
+    "contentSection": "abcn_app:politics",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "20",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "readerPolitics",
+        "push-tag-name": "av-readerPolitics"
+    }
+
+},
+{
+
+    "id": "readerEntertainment",
+    "contentType": "story",
+    "contentSection": "abcn_app:entertainment",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "20",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "readerEntertainment",
+        "push-tag-name": "av-readerEntertainment"
+    }
+
+},
+{
+
+    "id": "readerLifestyle",
+    "contentType": "story",
+    "contentSection": "abcn_app:lifestyle",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "15",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "readerLifestyle",
+        "push-tag-name": "av-readerLifestyle"
+    }
+
+},
+{
+
+    "id": "readerHealth",
+    "contentType": "story",
+    "contentSection": "abcn_app:health",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "20",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "readerHealth",
+        "push-tag-name": "av-readerHealth"
+    }
+
+},
+{
+
+    "id": "readerMoney",
+    "contentType": "story",
+    "contentSection": "abcn_app:business",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "20",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "readerMoney",
+        "push-tag-name": "av-readerMoney"
+    }
+
+},
+{
+
+    "id": "readerTech",
+    "contentType": "story",
+    "contentSection": "abcn_app:technology",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "20",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "readerTech",
+        "push-tag-name": "av-readerTech"
+    }
+
+},
+{
+
+    "id": "readerSports",
+    "contentType": "story",
+    "contentSection": "abcn_app:sports",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "20",
+    "collectionPlatforms": 
+
+    {
+        "gnow-event-name": "readerSports",
+        "push-tag-name": "av-readerSports"
+    }
+
+},
+{
+
+    "id": "readerTravel",
+    "contentType": "story",
+    "contentSection": "abcn_app:travel",
+    "videoPlayerLocation": "",
+    "event": "event3",
+    "eventThreshold": "15",
+    "collectionPlatforms": 
+
+                {
+                    "gnow-event-name": "readerTravel",
+                    "push-tag-name": "av-readerTravel"
+                }
+            }
+        ],
+        "shareArticleEmailBody": "From ABC News:<br/><br/>{{headline}}<br/><br/><a href='{{link}}'>{{link}}</a>",
+        "shareAlertEmailSubject": "ABC News Alert",
+        "shareAlertEmailBody": "From ABC News:<br/><br/>{{alerttext}}<br/><br/><a href='http://abcnews.go.com'>ABCNEWS.com</a>",
+        "shareSocialPrefix": "ABC News alert:",
+        "shareLiveVideoAlertEmailSubject": "Watch now: ABC News live video alert",
+        "shareLiveVideoAlertEmailBody": "{{headline}}<br/><br/><a href='{{link}}'>{{link}}</a>",
+        "shareLiveVideoSocialPrefix": "LIVE VIDEO: {{headline}}",
+        "sharethrough": "true",
+        "termsURL": "http://disneytermsofuse.com",
+        "privacyURL": "http://disneyprivacycenter.com",
+        "feedbackURL": "http://abcnews.go.com/custom/feedback_form_ios",
+        "rateAppURL": "https://itunes.apple.com/us/app/abc-news/id300255638?mt=8",
+        "shareEmailSubject": "Someone you know recommends the ABC News iPhone App",
+        "shareEmailBody": "Thought you would be interested in the ABC News iPhone app! The ABC News app lets you get the news like never before with customized alerts, live updates, live video and more! Check it out by downloading the app here: https://itunes.apple.com/us/app/abc-news/id300255638?mt=8",
+        "baseurl": "http://abcnews.go.com/",
+        "liveBlogIsLivePollingIntervalInSeconds": 15,
+        "checkForLiveBlogPollingIntervalInMinutes": 5,
+        "liveBlogQuietTimerInMinutes": 240,
+        "ratingsRequestDate": 20140813,
+        "displayOutbrain": "true",
+        "outbrainPosition": 1,
+        "outbrainHeadlines": 4,
+        "outbrainPrivacy": "http://www.outbrain.com/what-is/default/en-mobile/",
+        "radio-stream-config": "http://abcnews.go.com/xmldata/feed/radiostream"
+    }
+
+}
