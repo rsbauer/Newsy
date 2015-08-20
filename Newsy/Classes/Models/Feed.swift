@@ -11,6 +11,11 @@ import ObjectMapper
 
 class Feed: Mappable {
     
+    var ratingsRequestDate: NSDate?
+    var displayOutbrain: Bool?
+    var outbrainPosition: Int?
+    var outbrainHeadlines: Int?
+    var outbrainPrivacy: String?
     var radioStreamConfig: String?
     
     class func newInstance(map: Map) -> Mappable? {
@@ -19,6 +24,11 @@ class Feed: Mappable {
     
     func mapping(map: Map) {
         radioStreamConfig <- map["radio-stream-config"]
+        displayOutbrain <- map["displayOutbrain"]
+        outbrainPosition <- map["outbrainPosition"]
+        outbrainHeadlines <- map["outbrainHeadlines"]
+        outbrainPrivacy <- map["outbrainPrivacy"]
+        ratingsRequestDate <- (map["ratingsRequestDate"], IntegerDateTransform())
     }
     
 }

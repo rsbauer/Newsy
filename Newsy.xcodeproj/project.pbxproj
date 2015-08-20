@@ -39,6 +39,8 @@
 		6680B7951B864B15006E2A46 /* NewsService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7921B8636CC006E2A46 /* NewsService.swift */; };
 		6680B7981B866532006E2A46 /* feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6680B7971B866532006E2A46 /* feeds.plist */; };
 		6680B7991B866532006E2A46 /* feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6680B7971B866532006E2A46 /* feeds.plist */; };
+		6680B79C1B866F58006E2A46 /* IntegerDateTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B79B1B866F58006E2A46 /* IntegerDateTransform.swift */; };
+		6680B79D1B866F58006E2A46 /* IntegerDateTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B79B1B866F58006E2A46 /* IntegerDateTransform.swift */; };
 		CC93AC4FB6EF1ADFCEB7D26A /* Pods_Newsy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -85,6 +87,7 @@
 		6680B7901B8636AE006E2A46 /* ABCNewsService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNewsService.swift; path = Classes/Services/ABCNewsService.swift; sourceTree = "<group>"; };
 		6680B7921B8636CC006E2A46 /* NewsService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NewsService.swift; path = Classes/Services/NewsService.swift; sourceTree = "<group>"; };
 		6680B7971B866532006E2A46 /* feeds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = feeds.plist; path = "Supporting Files/Config/feeds.plist"; sourceTree = "<group>"; };
+		6680B79B1B866F58006E2A46 /* IntegerDateTransform.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = IntegerDateTransform.swift; path = Classes/Models/Transforms/IntegerDateTransform.swift; sourceTree = "<group>"; };
 		74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Newsy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E124B60CA4E1768F76062950 /* Pods-Newsy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Newsy.release.xcconfig"; path = "Pods/Target Support Files/Pods-Newsy/Pods-Newsy.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -206,6 +209,7 @@
 		6680B7811B8603FC006E2A46 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				6680B79A1B866F29006E2A46 /* Transforms */,
 				6680B77F1B8603F7006E2A46 /* Feed.swift */,
 			);
 			name = Models;
@@ -234,6 +238,14 @@
 				6680B7971B866532006E2A46 /* feeds.plist */,
 			);
 			name = Config;
+			sourceTree = "<group>";
+		};
+		6680B79A1B866F29006E2A46 /* Transforms */ = {
+			isa = PBXGroup;
+			children = (
+				6680B79B1B866F58006E2A46 /* IntegerDateTransform.swift */,
+			);
+			name = Transforms;
 			sourceTree = "<group>";
 		};
 		F8A5656E6B11B2C6436252A9 /* Frameworks */ = {
@@ -427,6 +439,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6680B79C1B866F58006E2A46 /* IntegerDateTransform.swift in Sources */,
 				6662C1401B84DEE000D4997B /* ViewController.swift in Sources */,
 				6680B7801B8603F7006E2A46 /* Feed.swift in Sources */,
 				6662C13E1B84DEE000D4997B /* Newsy.xcdatamodeld in Sources */,
@@ -440,6 +453,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6680B79D1B866F58006E2A46 /* IntegerDateTransform.swift in Sources */,
 				6680B7951B864B15006E2A46 /* NewsService.swift in Sources */,
 				6680B7861B86081C006E2A46 /* MapperTests.swift in Sources */,
 				6680B7941B864B12006E2A46 /* ABCNewsService.swift in Sources */,

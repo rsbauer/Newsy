@@ -26,6 +26,9 @@ class MapperTests: XCTestCase {
         var jsonContent: NSDictionary = loadJson("iphoneV21.json")
         let newsFeed = Mapper<Feed>().map(jsonContent.objectForKey("config"))
         XCTAssert(newsFeed?.radioStreamConfig != nil, "Radio streaming is null")
+        XCTAssert(newsFeed?.outbrainPrivacy != nil, "outbrainPrivacy is null")
+        XCTAssert(newsFeed?.outbrainHeadlines == 4, "outbrainHeadlines != 4")
+        XCTAssert(newsFeed?.ratingsRequestDate != nil, "ratingsRequestDate is null")  // 20140813
     }
 
     func loadJson(fileName: String) -> NSDictionary {
