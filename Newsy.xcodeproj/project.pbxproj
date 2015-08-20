@@ -33,6 +33,8 @@
 		6680B7881B860837006E2A46 /* ServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7871B860837006E2A46 /* ServiceTests.swift */; };
 		6680B78B1B8609BC006E2A46 /* feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6680B78A1B8609BC006E2A46 /* feeds.plist */; };
 		6680B78C1B860D92006E2A46 /* feeds.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6680B78A1B8609BC006E2A46 /* feeds.plist */; };
+		6680B78D1B862986006E2A46 /* Feed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B77F1B8603F7006E2A46 /* Feed.swift */; };
+		6680B78E1B862B73006E2A46 /* iphoneV21.json in Resources */ = {isa = PBXBuildFile; fileRef = 6680B7831B860743006E2A46 /* iphoneV21.json */; };
 		CC93AC4FB6EF1ADFCEB7D26A /* Pods_Newsy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -325,6 +327,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6680B78E1B862B73006E2A46 /* iphoneV21.json in Resources */,
 				6680B78C1B860D92006E2A46 /* feeds.plist in Resources */,
 				6662C1431B84DEE000D4997B /* Main.storyboard in Resources */,
 				6662C1481B84DEE000D4997B /* LaunchScreen.xib in Resources */,
@@ -421,6 +424,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6680B7861B86081C006E2A46 /* MapperTests.swift in Sources */,
+				6680B78D1B862986006E2A46 /* Feed.swift in Sources */,
 				6680B7881B860837006E2A46 /* ServiceTests.swift in Sources */,
 				6662C1541B84DEE000D4997B /* NewsyTests.swift in Sources */,
 			);

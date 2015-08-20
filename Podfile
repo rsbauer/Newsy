@@ -7,6 +7,7 @@ target 'Newsy' do
 	pod 'Alamofire', '~> 1.3'
 	pod 'Parse'
 	pod 'ParseCrashReporting'
+	pod 'ObjectMapper'
 end
 
 target 'NewsyTests' do

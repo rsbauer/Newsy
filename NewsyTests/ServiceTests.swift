@@ -31,7 +31,6 @@ class ServiceTests: XCTestCase {
     }
     
     func testFeedCall() {
-//        XCTAssert(true, "Pass")
         var expectation = self.expectationWithDescription("Fetch News")
         
         var feedURL = ""
