@@ -14,6 +14,20 @@
 		6662C1451B84DEE000D4997B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6662C1441B84DEE000D4997B /* Images.xcassets */; };
 		6662C1481B84DEE000D4997B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6662C1461B84DEE000D4997B /* LaunchScreen.xib */; };
 		6662C1541B84DEE000D4997B /* NewsyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6662C1531B84DEE000D4997B /* NewsyTests.swift */; };
+		666448BB1B851EB900DCBC67 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448BA1B851EB900DCBC67 /* AudioToolbox.framework */; };
+		666448BD1B851EBE00DCBC67 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448BC1B851EBE00DCBC67 /* CFNetwork.framework */; };
+		666448BF1B851EC300DCBC67 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448BE1B851EC300DCBC67 /* CoreGraphics.framework */; };
+		666448C11B851EC800DCBC67 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448C01B851EC800DCBC67 /* CoreLocation.framework */; };
+		666448C31B851ECE00DCBC67 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448C21B851ECE00DCBC67 /* QuartzCore.framework */; };
+		666448C51B851ED600DCBC67 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448C41B851ED600DCBC67 /* Security.framework */; };
+		666448C71B851EDC00DCBC67 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448C61B851EDB00DCBC67 /* StoreKit.framework */; };
+		666448C91B851EE200DCBC67 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448C81B851EE200DCBC67 /* SystemConfiguration.framework */; };
+		666448CB1B851EEF00DCBC67 /* libstdc++.6.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448CA1B851EEF00DCBC67 /* libstdc++.6.dylib */; };
+		666448CD1B851EF600DCBC67 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448CC1B851EF600DCBC67 /* libz.dylib */; };
+		666448CF1B851EFD00DCBC67 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448CE1B851EFD00DCBC67 /* libsqlite3.dylib */; };
+		666448D11B851F0D00DCBC67 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448D01B851F0D00DCBC67 /* Accounts.framework */; };
+		666448D31B851F1300DCBC67 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448D21B851F1300DCBC67 /* Social.framework */; };
+		CC93AC4FB6EF1ADFCEB7D26A /* Pods_Newsy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0CA4115989F5562EB2FB5AEC /* Pods-Newsy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Newsy.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Newsy/Pods-Newsy.debug.xcconfig"; sourceTree = "<group>"; };
 		6662C1351B84DEE000D4997B /* Newsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Newsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6662C1391B84DEE000D4997B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6662C13A1B84DEE000D4997B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +53,21 @@
 		6662C14D1B84DEE000D4997B /* NewsyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewsyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6662C1521B84DEE000D4997B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6662C1531B84DEE000D4997B /* NewsyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsyTests.swift; sourceTree = "<group>"; };
+		666448BA1B851EB900DCBC67 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		666448BC1B851EBE00DCBC67 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		666448BE1B851EC300DCBC67 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		666448C01B851EC800DCBC67 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		666448C21B851ECE00DCBC67 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		666448C41B851ED600DCBC67 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		666448C61B851EDB00DCBC67 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		666448C81B851EE200DCBC67 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		666448CA1B851EEF00DCBC67 /* libstdc++.6.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libstdc++.6.dylib"; path = "usr/lib/libstdc++.6.dylib"; sourceTree = SDKROOT; };
+		666448CC1B851EF600DCBC67 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		666448CE1B851EFD00DCBC67 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
+		666448D01B851F0D00DCBC67 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
+		666448D21B851F1300DCBC67 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Newsy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E124B60CA4E1768F76062950 /* Pods-Newsy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Newsy.release.xcconfig"; path = "Pods/Target Support Files/Pods-Newsy/Pods-Newsy.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +75,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				666448D31B851F1300DCBC67 /* Social.framework in Frameworks */,
+				666448D11B851F0D00DCBC67 /* Accounts.framework in Frameworks */,
+				666448CF1B851EFD00DCBC67 /* libsqlite3.dylib in Frameworks */,
+				666448CD1B851EF600DCBC67 /* libz.dylib in Frameworks */,
+				666448CB1B851EEF00DCBC67 /* libstdc++.6.dylib in Frameworks */,
+				666448C91B851EE200DCBC67 /* SystemConfiguration.framework in Frameworks */,
+				666448C71B851EDC00DCBC67 /* StoreKit.framework in Frameworks */,
+				666448C51B851ED600DCBC67 /* Security.framework in Frameworks */,
+				666448C31B851ECE00DCBC67 /* QuartzCore.framework in Frameworks */,
+				666448C11B851EC800DCBC67 /* CoreLocation.framework in Frameworks */,
+				666448BF1B851EC300DCBC67 /* CoreGraphics.framework in Frameworks */,
+				666448BD1B851EBE00DCBC67 /* CFNetwork.framework in Frameworks */,
+				666448BB1B851EB900DCBC67 /* AudioToolbox.framework in Frameworks */,
+				CC93AC4FB6EF1ADFCEB7D26A /* Pods_Newsy.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,12 +102,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3C4A877E99687E142C2C8B32 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0CA4115989F5562EB2FB5AEC /* Pods-Newsy.debug.xcconfig */,
+				E124B60CA4E1768F76062950 /* Pods-Newsy.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		6662C12C1B84DEDF00D4997B = {
 			isa = PBXGroup;
 			children = (
 				6662C1371B84DEE000D4997B /* Newsy */,
 				6662C1501B84DEE000D4997B /* NewsyTests */,
 				6662C1361B84DEE000D4997B /* Products */,
+				3C4A877E99687E142C2C8B32 /* Pods */,
+				F8A5656E6B11B2C6436252A9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -115,6 +170,27 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		F8A5656E6B11B2C6436252A9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				666448D21B851F1300DCBC67 /* Social.framework */,
+				666448D01B851F0D00DCBC67 /* Accounts.framework */,
+				666448CE1B851EFD00DCBC67 /* libsqlite3.dylib */,
+				666448CC1B851EF600DCBC67 /* libz.dylib */,
+				666448CA1B851EEF00DCBC67 /* libstdc++.6.dylib */,
+				666448C81B851EE200DCBC67 /* SystemConfiguration.framework */,
+				666448C61B851EDB00DCBC67 /* StoreKit.framework */,
+				666448C41B851ED600DCBC67 /* Security.framework */,
+				666448C21B851ECE00DCBC67 /* QuartzCore.framework */,
+				666448C01B851EC800DCBC67 /* CoreLocation.framework */,
+				666448BE1B851EC300DCBC67 /* CoreGraphics.framework */,
+				666448BC1B851EBE00DCBC67 /* CFNetwork.framework */,
+				666448BA1B851EB900DCBC67 /* AudioToolbox.framework */,
+				74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -122,9 +198,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 6662C1571B84DEE000D4997B /* Build configuration list for PBXNativeTarget "Newsy" */;
 			buildPhases = (
+				878751A29003510C93E9F03B /* Check Pods Manifest.lock */,
 				6662C1311B84DEE000D4997B /* Sources */,
 				6662C1321B84DEE000D4997B /* Frameworks */,
 				6662C1331B84DEE000D4997B /* Resources */,
+				BBEFAC47A4377E6180AAE666 /* Embed Pods Frameworks */,
+				BD498F63EDBF58B9055DAB2F /* Copy Pods Resources */,
+				666448D41B85213400DCBC67 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -164,6 +244,7 @@
 				TargetAttributes = {
 					6662C1341B84DEE000D4997B = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = HCG5E33E5U;
 					};
 					6662C14C1B84DEE000D4997B = {
 						CreatedOnToolsVersion = 6.4;
@@ -209,6 +290,67 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		666448D41B85213400DCBC67 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export PATH=/usr/local/bin:$PATH\ncd /Users/astro/code/ios/Newsy/Newsy/NewsyCloudCode\n\nparse symbols -p \"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}\"";
+		};
+		878751A29003510C93E9F03B /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		BBEFAC47A4377E6180AAE666 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Newsy/Pods-Newsy-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BD498F63EDBF58B9055DAB2F /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Newsy/Pods-Newsy-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		6662C1311B84DEE000D4997B /* Sources */ = {
@@ -344,21 +486,29 @@
 		};
 		6662C1581B84DEE000D4997B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0CA4115989F5562EB2FB5AEC /* Pods-Newsy.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Newsy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
 		6662C1591B84DEE000D4997B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E124B60CA4E1768F76062950 /* Pods-Newsy.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Newsy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -415,6 +565,7 @@
 				6662C1591B84DEE000D4997B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6662C15A1B84DEE000D4997B /* Build configuration list for PBXNativeTarget "NewsyTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +574,7 @@
 				6662C15C1B84DEE000D4997B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
