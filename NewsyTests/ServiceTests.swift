@@ -32,48 +32,17 @@ class ServiceTests: XCTestCase {
     
     func testFeedCall() {
         var expectation = self.expectationWithDescription("Fetch News")
-        
-        var feedURL = ""
-        var feedsPlist: NSDictionary?
-        if let path = NSBundle.mainBundle().pathForResource("feeds", ofType: "plist") {
-            feedsPlist = NSDictionary(contentsOfFile: path)
-        }
-        
-        if let feedDictionary = feedsPlist {
-            feedURL = feedDictionary.objectForKey("iphone") as! String
-        }
-        
-        if feedURL != "" {
-            Alamofire.request(.GET, feedURL)
-                .debugLog()
-                .response {
-                    (request, response, data, error) in
-                    
-                    if(error == nil) {
-                        var serializationError: NSError?
-                        let json: AnyObject? = NSJSONSerialization.JSONObjectWithData(data! as NSData, options: NSJSONReadingOptions.AllowFragments, error: &serializationError)
-                        
-                        println(json)
-                        let jsonDictionary:NSDictionary = json as! NSDictionary
+ 
+        var newsService = NewsService()
+        newsService.getNews(ABCNewsService()).response = {
+            (result: AnyObject?, error: NSError?) in
+                var newsFeed: Feed = result as! Feed
+                XCTAssert(newsFeed.radioStreamConfig != nil, "Radio stream config is null")
 
-                        if jsonDictionary.objectForKey("config") == nil {
-                            XCTAssert(false, "Not enough json data")
-                        }
-                    }
-                    else {
-                        // something bad happened here
-                        XCTAssert(false, "Request failed.")
-                    }
-                    
-                    expectation.fulfill()
-                }
-        }
-        else {
-            XCTAssert(false, "feedURL is empty")
+                expectation.fulfill()
         }
         
         self.waitForExpectationsWithTimeout(10.0, handler: nil)
-        
     }
 
     
