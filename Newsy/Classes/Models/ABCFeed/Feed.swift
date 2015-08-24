@@ -10,6 +10,12 @@ import Foundation
 import ObjectMapper
 
 class Feed: Mappable {
+    var sections: Array<Section>?
+    var shows: Array<Show>?
+    var topStories: Story?
+    var bestReads: Story?
+    var rewindUnwind: Story?
+    var alerts: Story?
     
     var shareArticleEmailBody: String?
     var shareAlertEmailSubject: String?
@@ -43,6 +49,13 @@ class Feed: Mappable {
     }
     
     func mapping(map: Map) {
+        sections <- map["sections"]
+        shows <- map["shows"]
+        topStories <- map["topStories"]
+        bestReads <- map["bestReads"]
+        rewindUnwind <- map["rewindUnwind"]
+        alerts <- map["alerts"]
+        
         radioStreamConfig <- map["radio-stream-config"]
         displayOutbrain <- (map["displayOutbrain"], BoolTransform())
         outbrainPosition <- map["outbrainPosition"]
