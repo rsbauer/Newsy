@@ -29,6 +29,7 @@ class MapperTests: XCTestCase {
             XCTAssert(newsFeed.outbrainPrivacy != nil, "outbrainPrivacy is null")
             XCTAssert(newsFeed.outbrainHeadlines == 4, "outbrainHeadlines != 4")
             XCTAssert(newsFeed.ratingsRequestDate != nil, "ratingsRequestDate is null")  // 20140813
+            XCTAssert(newsFeed.displayOutbrain == true, "displayOutbrain was not true")
             var expectedRatingsRequestDate = NSDate().from(year: 2014, month: 8, day: 13)
             if let actualRatingsRequestDate = newsFeed.ratingsRequestDate {
                 XCTAssert(actualRatingsRequestDate.isEqualToDate(expectedRatingsRequestDate) == true, "ratingsRequestDate not equal")  // 20140813
