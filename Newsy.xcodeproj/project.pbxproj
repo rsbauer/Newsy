@@ -91,6 +91,14 @@
 		66C48AC01B8CC3F600CBCFF4 /* ABCNFeedImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48ABE1B8CC3F600CBCFF4 /* ABCNFeedImage.swift */; };
 		66C48AC21B8CC44400CBCFF4 /* ABCNImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48AC11B8CC44400CBCFF4 /* ABCNImage.swift */; };
 		66C48AC31B8CC44400CBCFF4 /* ABCNImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48AC11B8CC44400CBCFF4 /* ABCNImage.swift */; };
+		66C48AC81B8CD70E00CBCFF4 /* ABCNAuthor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48AC71B8CD70E00CBCFF4 /* ABCNAuthor.swift */; };
+		66C48AC91B8CD70E00CBCFF4 /* ABCNAuthor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48AC71B8CD70E00CBCFF4 /* ABCNAuthor.swift */; };
+		66C48ACB1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48ACA1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift */; };
+		66C48ACC1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48ACA1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift */; };
+		66C48ACE1B8CDF3E00CBCFF4 /* ABCNVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48ACD1B8CDF3E00CBCFF4 /* ABCNVideo.swift */; };
+		66C48ACF1B8CDF3E00CBCFF4 /* ABCNVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48ACD1B8CDF3E00CBCFF4 /* ABCNVideo.swift */; };
+		66C48AD11B8CE02400CBCFF4 /* ABCNRelated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48AD01B8CE02400CBCFF4 /* ABCNRelated.swift */; };
+		66C48AD21B8CE02400CBCFF4 /* ABCNRelated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48AD01B8CE02400CBCFF4 /* ABCNRelated.swift */; };
 		CC93AC4FB6EF1ADFCEB7D26A /* Pods_Newsy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -163,6 +171,10 @@
 		66C48ABB1B8CC2B500CBCFF4 /* Guid.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Guid.swift; path = Classes/Models/ABCFeed/FeedCategory/Guid.swift; sourceTree = "<group>"; };
 		66C48ABE1B8CC3F600CBCFF4 /* ABCNFeedImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNFeedImage.swift; path = Classes/Models/ABCFeed/FeedCategory/ABCNFeedImage.swift; sourceTree = "<group>"; };
 		66C48AC11B8CC44400CBCFF4 /* ABCNImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNImage.swift; path = Classes/Models/ABCFeed/FeedCategory/ABCNImage.swift; sourceTree = "<group>"; };
+		66C48AC71B8CD70E00CBCFF4 /* ABCNAuthor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNAuthor.swift; path = Classes/Models/ABCFeed/Story/ABCNAuthor.swift; sourceTree = "<group>"; };
+		66C48ACA1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNAuthorDetail.swift; path = Classes/Models/ABCFeed/Story/ABCNAuthorDetail.swift; sourceTree = "<group>"; };
+		66C48ACD1B8CDF3E00CBCFF4 /* ABCNVideo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNVideo.swift; path = Classes/Models/ABCFeed/Story/ABCNVideo.swift; sourceTree = "<group>"; };
+		66C48AD01B8CE02400CBCFF4 /* ABCNRelated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNRelated.swift; path = Classes/Models/ABCFeed/Story/ABCNRelated.swift; sourceTree = "<group>"; };
 		74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Newsy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E124B60CA4E1768F76062950 /* Pods-Newsy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Newsy.release.xcconfig"; path = "Pods/Target Support Files/Pods-Newsy/Pods-Newsy.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -384,6 +396,10 @@
 		66C48A811B8CA5B300CBCFF4 /* Story */ = {
 			isa = PBXGroup;
 			children = (
+				66C48AC71B8CD70E00CBCFF4 /* ABCNAuthor.swift */,
+				66C48ACA1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift */,
+				66C48ACD1B8CDF3E00CBCFF4 /* ABCNVideo.swift */,
+				66C48AD01B8CE02400CBCFF4 /* ABCNRelated.swift */,
 			);
 			name = Story;
 			sourceTree = "<group>";
@@ -588,18 +604,22 @@
 				66C48A9E1B8CA60A00CBCFF4 /* Schedule.swift in Sources */,
 				66C48AC21B8CC44400CBCFF4 /* ABCNImage.swift in Sources */,
 				66C48A8E1B8CA60A00CBCFF4 /* Ad.swift in Sources */,
+				66C48ACE1B8CDF3E00CBCFF4 /* ABCNVideo.swift in Sources */,
 				66C48AB01B8CBB9800CBCFF4 /* ChannelItem.swift in Sources */,
 				66C48AB31B8CBEDA00CBCFF4 /* DateTimeDateStringTransform.swift in Sources */,
 				6662C13E1B84DEE000D4997B /* Newsy.xcdatamodeld in Sources */,
 				66C48A9A1B8CA60A00CBCFF4 /* Event.swift in Sources */,
 				6680B7931B8636CC006E2A46 /* NewsService.swift in Sources */,
 				66C48AAD1B8CA9F000CBCFF4 /* DateStringTransform.swift in Sources */,
+				66C48ACB1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift in Sources */,
+				66C48AD11B8CE02400CBCFF4 /* ABCNRelated.swift in Sources */,
 				66C48A961B8CA60A00CBCFF4 /* CollectionPlatform.swift in Sources */,
 				66C48AA71B8CA68600CBCFF4 /* FeedCategory.swift in Sources */,
 				66C48A941B8CA60A00CBCFF4 /* Banner.swift in Sources */,
 				66C48AA01B8CA60A00CBCFF4 /* Section.swift in Sources */,
 				6680B7A01B875832006E2A46 /* DateExtensions.swift in Sources */,
 				66C48A9C1B8CA60A00CBCFF4 /* Feed.swift in Sources */,
+				66C48AC81B8CD70E00CBCFF4 /* ABCNAuthor.swift in Sources */,
 				66C48AAA1B8CA70900CBCFF4 /* Channel.swift in Sources */,
 				66C48A921B8CA60A00CBCFF4 /* Apis.swift in Sources */,
 				66C48ABC1B8CC2B500CBCFF4 /* Guid.swift in Sources */,
@@ -625,18 +645,22 @@
 				66C48A9F1B8CA60A00CBCFF4 /* Schedule.swift in Sources */,
 				66C48AC31B8CC44400CBCFF4 /* ABCNImage.swift in Sources */,
 				66C48A8F1B8CA60A00CBCFF4 /* Ad.swift in Sources */,
+				66C48ACF1B8CDF3E00CBCFF4 /* ABCNVideo.swift in Sources */,
 				66C48AB11B8CBB9800CBCFF4 /* ChannelItem.swift in Sources */,
 				66C48AB41B8CBEDA00CBCFF4 /* DateTimeDateStringTransform.swift in Sources */,
 				6680B7861B86081C006E2A46 /* MapperTests.swift in Sources */,
 				66C48A9B1B8CA60A00CBCFF4 /* Event.swift in Sources */,
 				6680B7941B864B12006E2A46 /* ABCNewsService.swift in Sources */,
 				66C48AAE1B8CA9F000CBCFF4 /* DateStringTransform.swift in Sources */,
+				66C48ACC1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift in Sources */,
+				66C48AD21B8CE02400CBCFF4 /* ABCNRelated.swift in Sources */,
 				66C48A971B8CA60A00CBCFF4 /* CollectionPlatform.swift in Sources */,
 				66C48AA81B8CA68600CBCFF4 /* FeedCategory.swift in Sources */,
 				66C48A951B8CA60A00CBCFF4 /* Banner.swift in Sources */,
 				66C48AA11B8CA60A00CBCFF4 /* Section.swift in Sources */,
 				6680B7A11B875832006E2A46 /* DateExtensions.swift in Sources */,
 				66C48A9D1B8CA60A00CBCFF4 /* Feed.swift in Sources */,
+				66C48AC91B8CD70E00CBCFF4 /* ABCNAuthor.swift in Sources */,
 				66C48AAB1B8CA70900CBCFF4 /* Channel.swift in Sources */,
 				66C48A931B8CA60A00CBCFF4 /* Apis.swift in Sources */,
 				66C48ABD1B8CC2B500CBCFF4 /* Guid.swift in Sources */,

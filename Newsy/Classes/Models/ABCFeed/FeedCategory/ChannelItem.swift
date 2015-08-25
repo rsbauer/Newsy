@@ -14,18 +14,24 @@ class ChannelItem: Mappable {
     var pubDate: NSDate?
     var abcn_section: String?
     var byline_credit: String?
+    var abcn_authors: Array<ABCNAuthor>?
     var link: String?
+    var abcnLogo: ABCNLogo?
+    var abcnAd: ABCNAd?
     var abcn_subtitle: String?
     var social_share_link: String?
+    var abcn_location: String?
     var title: String?
     var lastModDate: NSDate?
     var description: String?
+    var abcn_videos: Array<ABCNVideo>?
+    var abcn_relateds: Array<ABCNRelated>?
+    var abcn_analytics: NSDictionary?
     var abcn_datalink: String?
     var slug: String?
-    var abcnLogo: ABCNLogo?
-    var abcnAd: ABCNAd?
     var guid: Guid?
-    var abcnImages: Array<ABCNFeedImage>?
+    var abcn_dateline: String?
+    var abcn_images: Array<ABCNFeedImage>?
     
     class func newInstance(map: Map) -> Mappable? {
         return ChannelItem()
@@ -36,17 +42,23 @@ class ChannelItem: Mappable {
         pubDate <- (map["pubDate"], DateTimeDateStringTransform())
         abcn_section <- map["abcn:section"]
         byline_credit <- map["byline-credit"]
+        abcn_authors <- map["abcn:authors"]
         link <- map["link"]
         abcn_subtitle <- map["abcn:subtitle"]
         social_share_link <- map["social-share-link"]
+        abcn_location <- map["abcn:location"]
         title <- map["title"]
         lastModDate <- (map["lastModDate"], DateTimeDateStringTransform())
         description <- map["description"]
+        abcn_analytics <- map["abcn:analytics"]
         abcn_datalink <- map["abcn:datalink"]
         slug <- map["slug"]
         abcnLogo <- map["abcn:logo"]
         abcnAd <- map["abcn:ad"]
         guid <- map["guid"]
-        abcnImages <- map["abcn:images"]
+        abcn_images <- map["abcn:images"]
+        abcn_dateline <- map["abcn:dateline"]
+        abcn_videos <- map["abcn:videos"]
+        abcn_relateds <- map["abcn:relateds"]
     }
 }

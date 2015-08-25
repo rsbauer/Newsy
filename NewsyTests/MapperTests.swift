@@ -46,8 +46,19 @@ class MapperTests: XCTestCase {
             XCTAssert(feed.lastBuildDate != nil, "Last build date is null")
             XCTAssert(feed.channels?.count == 4, "Channel count = 4")
             XCTAssert(feed.channels?[0].items?.count == 8, "Channel items count = 8")
-            XCTAssert(feed.channels?[0].items?[0].abcnImages?.count == 3, "Image items = 3")
+            XCTAssert(feed.channels?[0].items?[0].abcn_images?.count == 3, "Image items = 3")
             
+        }
+        
+    }
+
+    func testStoryMap() {
+        var jsonContent: NSDictionary = loadJson("story.json")
+        if let feed = Mapper<FeedCategory>().map(jsonContent) {
+            XCTAssert(feed.lastBuildDate != nil, "Last build date is null")
+            XCTAssert(feed.channels?.count == 4, "Channel count = 4")
+            XCTAssert(feed.channels?[0].items?.count == 8, "Channel items count = 8")
+            XCTAssert(feed.channels?[0].items?[0].abcn_images?.count == 3, "Image items = 3")
         }
         
     }
