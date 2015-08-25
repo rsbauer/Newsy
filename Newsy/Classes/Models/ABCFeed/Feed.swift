@@ -16,6 +16,7 @@ class Feed: Mappable {
     var bestReads: Story?
     var rewindUnwind: Story?
     var alerts: Story?
+    var ad: Ad?
     
     var shareArticleEmailBody: String?
     var shareAlertEmailSubject: String?
@@ -55,6 +56,7 @@ class Feed: Mappable {
         bestReads <- map["bestReads"]
         rewindUnwind <- map["rewindUnwind"]
         alerts <- map["alerts"]
+        ad <- map["ad"]
         
         radioStreamConfig <- map["radio-stream-config"]
         displayOutbrain <- (map["displayOutbrain"], BoolTransform())
