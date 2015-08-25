@@ -17,7 +17,7 @@ class Feed: Mappable {
     var rewindUnwind: Story?
     var alerts: Story?
     var ad: Ad?
-    var inboxAnalytics: InboxAnalytics?
+    var inboxAnalytics: Analytics?
     var apis: Apis?
     var dayparts: Array<DayPart>?
     var events: Array<Event>?

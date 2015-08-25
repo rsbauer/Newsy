@@ -1,0 +1,3453 @@
+{
+
+    "lastBuildDate": "Tue, 25 Aug 2015 13:08:43 GMT",
+    "abcn:analytics": 
+
+[
+
+    {
+        "abcn:analytics-pageName": "daypart|topstories",
+        "abcn:analytics-eVar16": "daypart|topstories",
+        "abcn:analytics-channel": "abcn_app:daypart",
+        "abcn:analytics-events": "event3",
+        "abcn:analytics-prop1": "abcn_app",
+        "abcn:analytics-eVar10": "abcn_app",
+        "abcn:analytics-prop4": "daypart",
+        "abcn:analytics-prop5": "abcn_app:daypart",
+        "abcn:analytics-prop6": "abcn_app:daypart::",
+        "abcn:analytics-eVar17": "daypart:abcn_app:daypart"
+    }
+
+],
+"channels": 
+[
+
+{
+
+    "ref": "none",
+    "title": "Top Carousel",
+    "layouttype": "1",
+    "items": 
+
+[
+
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/25/2015 00:42:20 GMT",
+    "abcn:section": "international",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/International/french-train-attack-eyewitness-describes-moment-suspect-shot/story?id=33291495",
+    "abcn:logo": 
+
+{
+
+    "name": "Nightline",
+    "url": "http://abcnews.go.com/nightline",
+    "alt": "http://a.abcnews.com/assets/images/ipad/app_logo_nl_light_v9.png",
+    "retina": "http://a.abcnews.com/assets/images/ipad/app_logo_nl_retina_light_v9.png",
+    "circle-logo": "",
+    "circle-logo-retina": "",
+    "circle-logo-hdpi": "",
+    "code": "NL",
+    "thumbnail-overlay-logo": "http://a.abcnews.com/images/Site/NIGHTLINE_75x20_logo_updates_3.png",
+    "squeezeback-logo": "http://a.abcnews.com/images/Site/ABC_LOGO_color_NIGHTLINE_200x24_2.png"
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "NL",
+    "caid": ""
+
+},
+"abcn:subtitle": "An eyewitness on the Paris-bound high-speed train where a gunman armed with an automatic rifle, a pistol and a box cutter began an attack described the harrowing moments.",
+"social-share-link": "http://abcn.ws/1MJOVfc",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33291495
+
+},
+"title": "French Train Attack Eyewitness Describes Harrowing Ordeal",
+"lastModDate": "8/25/2015 11:55:17 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33291495&text=full&view=json&embeds=true&segment=iphone",
+"slug": "international-33291495",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/International/GTY_french_train_attack_jt_150822_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "PHILIPPE HUGUEN/AFP/Getty Images",
+        "imagecaption": "Crime investigators look into the window of a Thalys train of French national railway operator SNCF at the main train station in Arras, northern France, Aug. 21, 2015. "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/International/GTY_french_train_attack_jt_150822_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "PHILIPPE HUGUEN/AFP/Getty Images",
+        "imagecaption": "Crime investigators look into the window of a Thalys train of French national railway operator SNCF at the main train station in Arras, northern France, Aug. 21, 2015. "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/International/GTY_french_train_attack_jt_150822_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "PHILIPPE HUGUEN/AFP/Getty Images",
+                "imagecaption": "Crime investigators look into the window of a Thalys train of French national railway operator SNCF at the main train station in Arras, northern France, Aug. 21, 2015. "
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/25/2015 06:54:43 GMT",
+    "abcn:section": "lifestyle",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/Lifestyle/christian-vloggers-sam-nia-rader-regrets-posting-family/story?id=33291322",
+    "abcn:logo": 
+
+{
+
+    "name": "Nightline",
+    "url": "http://abcnews.go.com/nightline",
+    "alt": "http://a.abcnews.com/assets/images/ipad/app_logo_nl_light_v9.png",
+    "retina": "http://a.abcnews.com/assets/images/ipad/app_logo_nl_retina_light_v9.png",
+    "circle-logo": "",
+    "circle-logo-retina": "",
+    "circle-logo-hdpi": "",
+    "code": "NL",
+    "thumbnail-overlay-logo": "http://a.abcnews.com/images/Site/NIGHTLINE_75x20_logo_updates_3.png",
+    "squeezeback-logo": "http://a.abcnews.com/images/Site/ABC_LOGO_color_NIGHTLINE_200x24_2.png"
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "NL",
+    "caid": ""
+
+},
+"abcn:subtitle": "Some say Sam and Nia and other parents like them are taking it too far, overexposing their children and oversharing the good, the bad and the ugly family moments. ",
+"social-share-link": "http://abcn.ws/1KgIdwQ",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33291322
+
+},
+"title": "Vloggers Sam and Nia Have No Regrets Posting Family Videos",
+"lastModDate": "8/25/2015 12:19:51 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33291322&text=full&view=json&embeds=true&segment=iphone",
+"slug": "lifestyle-33291322",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Lifestyle/abc_vloggingparents_le_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABC News",
+        "imagecaption": "Sam and Nia Rader became viral vlogging sensations after Sam posted a video surprising his wife with the news that she was pregnant. "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Lifestyle/abc_vloggingparents_le_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABC News",
+        "imagecaption": "Sam and Nia Rader became viral vlogging sensations after Sam posted a video surprising his wife with the news that she was pregnant. "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Lifestyle/abc_vloggingparents_le_150824_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "ABC News",
+                "imagecaption": "Sam and Nia Rader became viral vlogging sensations after Sam posted a video surprising his wife with the news that she was pregnant. "
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/25/2015 08:15:10 GMT",
+    "abcn:section": "international",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/International/package-el-paquete-illegal-cubas-number-employer/story?id=33279812",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "",
+    "circle-logo-retina": "",
+    "circle-logo-hdpi": "",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "You get it once a week. It costs five CUC, which is roughly 6.50 USD.",
+"social-share-link": "http://abcn.ws/1KgO3OL",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33279812
+
+},
+"title": "'The Package' Is Illegal But Cuba's No. 1 Employer",
+"lastModDate": "8/25/2015 09:28:20 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33279812&text=full&view=json&embeds=true&segment=iphone",
+"slug": "international-33279812",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/International/ABC_El_Paquete_mm_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABC News ",
+        "imagecaption": "El Paquete provides an alternative to broadband Internet for Cubans. "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/International/ABC_El_Paquete_mm_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABC News ",
+        "imagecaption": "El Paquete provides an alternative to broadband Internet for Cubans. "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/International/ABC_El_Paquete_mm_150824_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "ABC News ",
+                "imagecaption": "El Paquete provides an alternative to broadband Internet for Cubans. "
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/25/2015 11:08:00 GMT",
+    "abcn:section": "us",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/US/10-year-survival-smarts-lost-utah-forest/story?id=33297575",
+    "abcn:logo": 
+
+{
+
+    "name": "Good Morning America",
+    "url": "http://abcnews.go.com/gma",
+    "alt": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_v9b.png",
+    "retina": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_retina_v9b.png",
+    "circle-logo": "",
+    "circle-logo-retina": "",
+    "circle-logo-hdpi": "",
+    "code": "GMA",
+    "thumbnail-overlay-logo": "http://a.abcnews.com/images/Site/GMA_75x20_logo_updates_3.png",
+    "squeezeback-logo": "http://a.abcnews.com/images/Site/ABC_LOGO_color_GMA_200x24_2.png"
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "GMA",
+    "caid": ""
+
+},
+"abcn:subtitle": "Malachi Bradley is back with his family after spending a night lost in a Utah forest.",
+"social-share-link": "http://abcn.ws/1MQNzkn",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33297575
+
+},
+"title": "How 10-Year-Old Survived 28 Hours Lost in Utah Forest",
+"lastModDate": "8/25/2015 12:27:30 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33297575&text=full&view=json&embeds=true&segment=iphone",
+"slug": "us-33297575",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/US/AP_Malachi_Bradley1_ml_150825_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Ravell Call/The Deseret News/AP Photo",
+        "imagecaption": "Malachi Bradley, center, is reunited with his family, Aug. 24, 2015, in Uintah County, Utah, after being lost near a remote mountain lake near the Wyoming border on Sunday. Also pictured are his mother, Molly Chrisman, left, father, Danny Bradley, top, and grandmother Sharon Clark."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/US/AP_Malachi_Bradley1_ml_150825_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Ravell Call/The Deseret News/AP Photo",
+        "imagecaption": "Malachi Bradley, center, is reunited with his family, Aug. 24, 2015, in Uintah County, Utah, after being lost near a remote mountain lake near the Wyoming border on Sunday. Also pictured are his mother, Molly Chrisman, left, father, Danny Bradley, top, and grandmother Sharon Clark."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/US/AP_Malachi_Bradley1_ml_150825_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "Ravell Call/The Deseret News/AP Photo",
+                "imagecaption": "Malachi Bradley, center, is reunited with his family, Aug. 24, 2015, in Uintah County, Utah, after being lost near a remote mountain lake near the Wyoming border on Sunday. Also pictured are his mother, Molly Chrisman, left, father, Danny Bradley, top, and grandmother Sharon Clark."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/24/2015 19:40:00 GMT",
+    "abcn:section": "us",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/US/mans-concrete-home-survives-raging-wildfire-washington/story?id=33286398",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "",
+    "circle-logo-retina": "",
+    "circle-logo-hdpi": "",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "A man’s cement home is still standing after surviving a raging wildfire.",
+"social-share-link": "http://abcn.ws/1I9EpHA",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33286398
+
+},
+"title": "Man's Concrete Home Survives Raging Wildfire",
+"lastModDate": "8/25/2015 11:35:56 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33286398&text=full&view=json&embeds=true&segment=iphone",
+"slug": "us-33286398",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/US/HT_KXLY_Fire_MEM_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "KXLY",
+        "imagecaption": "The cement monolithic dome, built by John Belles in 1999, survives fire on Aug. 22, 2015 in Omak, Wash."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/US/HT_KXLY_Fire_MEM_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "KXLY",
+        "imagecaption": "The cement monolithic dome, built by John Belles in 1999, survives fire on Aug. 22, 2015 in Omak, Wash."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/US/HT_KXLY_Fire_MEM_150824_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "KXLY",
+                "imagecaption": "The cement monolithic dome, built by John Belles in 1999, survives fire on Aug. 22, 2015 in Omak, Wash."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "slideshow",
+    "pubDate": "8/25/2015 10:53:23 GMT",
+    "link": "http://abcnews.go.com/Lifestyle/photos/feline-good-emotional-cats-33290885",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "",
+    "circle-logo-retina": "",
+    "circle-logo-hdpi": "",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:photogallery": "http://abcnews.go.com/xmldata/feed/item?id=33290885&view=json&embeds=true&segment=iphone",
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Cats Showing Off Their Emotions According To Photographer",
+"social-share-link": "http://abcn.ws/1LuwpWx",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33290885
+
+},
+"title": "Cats Showing Off Their Emotions According To Photographer",
+"lastModDate": "8/25/2015 10:53:23 GMT",
+"abcn:slideshow-short-title": "Feline Good: Emotional Cats",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33290885&view=json&embeds=true&segment=iphone",
+"slug": "slideshow-lifestyle-33290885",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Lifestyle/rex_cats_01_lb_150824_mn_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Andrew Marttila/REX Shutterstock",
+        "imagecaption": "The 29-year-old Philadelphia-based pet photographer and self proclaimed \"crazy cat man\" said: \"This series on emotions is to disprove the stereotype that cats are cold and aloof.\n\n\"I want to show that cats are capable of a range of emotion, from serious to silly and everything in between.\"\n\nThe images are titled with the cat's name and what he believes they were feeling when the portrait was taken."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Lifestyle/rex_cats_01_lb_150824_mn_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Andrew Marttila/REX Shutterstock",
+        "imagecaption": "The 29-year-old Philadelphia-based pet photographer and self proclaimed \"crazy cat man\" said: \"This series on emotions is to disprove the stereotype that cats are cold and aloof.\n\n\"I want to show that cats are capable of a range of emotion, from serious to silly and everything in between.\"\n\nThe images are titled with the cat's name and what he believes they were feeling when the portrait was taken."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Lifestyle/rex_cats_01_lb_150824_mn_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "Andrew Marttila/REX Shutterstock",
+                "imagecaption": "The 29-year-old Philadelphia-based pet photographer and self proclaimed \"crazy cat man\" said: \"This series on emotions is to disprove the stereotype that cats are cold and aloof.\n\n\"I want to show that cats are capable of a range of emotion, from serious to silly and everything in between.\"\n\nThe images are titled with the cat's name and what he believes they were feeling when the portrait was taken."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/24/2015 19:24:00 GMT",
+    "abcn:section": "business",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/Business/401k-amid-global-stock-sell-off/story?id=33287283",
+    "abcn:logo": 
+
+{
+
+    "name": "Good Morning America",
+    "url": "http://abcnews.go.com/gma",
+    "alt": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_v9b.png",
+    "retina": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_retina_v9b.png",
+    "circle-logo": "",
+    "circle-logo-retina": "",
+    "circle-logo-hdpi": "",
+    "code": "GMA",
+    "thumbnail-overlay-logo": "http://a.abcnews.com/images/Site/GMA_75x20_logo_updates_3.png",
+    "squeezeback-logo": "http://a.abcnews.com/images/Site/ABC_LOGO_color_GMA_200x24_2.png"
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "GMA",
+    "caid": ""
+
+},
+"abcn:subtitle": "Here's what experts say you should know when stocks are tanking. ",
+"social-share-link": "http://abcn.ws/1JvK405",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33287283
+
+},
+"title": "What You Should Know About Your 401(k) Amid Stock Sell-Off",
+"lastModDate": "8/25/2015 09:28:17 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33287283&text=full&view=json&embeds=true&segment=iphone",
+"slug": "biz-stocks",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Business/GTY_piggy_bank_sk_140619_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Getty Images",
+        "imagecaption": "Small charges you hardly notice can become big budget busters. Here's how to recognize them before they get out of control."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Business/GTY_piggy_bank_sk_140619_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Getty Images",
+        "imagecaption": "Small charges you hardly notice can become big budget busters. Here's how to recognize them before they get out of control."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Business/GTY_piggy_bank_sk_140619_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "Getty Images",
+                "imagecaption": "Small charges you hardly notice can become big budget busters. Here's how to recognize them before they get out of control."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/24/2015 23:09:00 GMT",
+    "abcn:section": "us",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/US/american-serviceman-alek-skarlatos-stopping-train-attack-everythings/story?id=33290420",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "",
+    "circle-logo-retina": "",
+    "circle-logo-hdpi": "",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Alek Skarlatos said he's still processing what happened on board the train.",
+"social-share-link": "http://abcn.ws/1h9V2NC",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33290420
+
+},
+"title": "Train Hero Says 'Everything's Been Like a Dream'",
+"lastModDate": "8/24/2015 23:12:14 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33290420&text=full&view=json&embeds=true&segment=iphone",
+"slug": "us-33290420",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/International/GTY_alek_skarlatos_jef_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Aurelien Meunier/Getty Images",
+        "imagecaption": "Alek Skarlatos attends a reception at Elysee Palace, Aug. 24, 2015 in Paris."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/International/GTY_alek_skarlatos_jef_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Aurelien Meunier/Getty Images",
+        "imagecaption": "Alek Skarlatos attends a reception at Elysee Palace, Aug. 24, 2015 in Paris."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+                    {
+                        "type": "alt",
+                        "url": "http://a.abcnews.com/images/International/GTY_alek_skarlatos_jef_150824_16x9t_240.jpg",
+                        "height": 135,
+                        "width": 240,
+                        "imagecredit": "Aurelien Meunier/Getty Images",
+                        "imagecaption": "Alek Skarlatos attends a reception at Elysee Palace, Aug. 24, 2015 in Paris."
+                    }
+                }
+            ]
+        }
+    ]
+
+},
+{
+
+    "ref": "none",
+    "title": "Top Stories",
+    "layouttype": "1",
+    "items": 
+
+[
+
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 04:39:38 GMT",
+    "abcn:section": "us",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/US/wireStory/stocks-slump-dow-ends-588-early-1000-pt-33291843",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Chinese stocks fall further after biggest loss in 8 years as other Asian markets rebound",
+"social-share-link": "http://abcn.ws/1Ia5Y3D",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33291843
+
+},
+"title": "Chinese Stocks Tumble Again as Other Asian Markets Rebound",
+"lastModDate": "8/25/2015 04:40:33 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33291843&text=full&view=json&embeds=true&segment=iphone",
+"slug": "us-33291843",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/US/WireAP_bd83090a7cfd47a191c1a48724c67879_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "The Associated Press",
+        "imagecaption": "People watch trading boards at a private stock market gallery in Kuala Lumpur, Malaysia on Monday, Aug. 24, 2015. Stocks tumbled across Asia on Monday as investors shaken by the sell-off last week on Wall Street unloaded shares in practically every sector. (AP Photo/Joshua Paul)"
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/US/WireAP_bd83090a7cfd47a191c1a48724c67879_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "The Associated Press",
+        "imagecaption": "People watch trading boards at a private stock market gallery in Kuala Lumpur, Malaysia on Monday, Aug. 24, 2015. Stocks tumbled across Asia on Monday as investors shaken by the sell-off last week on Wall Street unloaded shares in practically every sector. (AP Photo/Joshua Paul)"
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/US/WireAP_bd83090a7cfd47a191c1a48724c67879_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "The Associated Press",
+                "imagecaption": "People watch trading boards at a private stock market gallery in Kuala Lumpur, Malaysia on Monday, Aug. 24, 2015. Stocks tumbled across Asia on Monday as investors shaken by the sell-off last week on Wall Street unloaded shares in practically every sector. (AP Photo/Joshua Paul)"
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 11:47:31 GMT",
+    "abcn:section": "international",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/International/wireStory/turkey-us-conclude-talks-anti-operations-33298672",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Turkish foreign minister says Turkey, US have concluded talks on anti-IS operations",
+"social-share-link": "http://abcn.ws/1hYzPaj",
+"guid": 
+
+    {
+        "isPermalink": "false",
+        "pcdata": 33298672
+    },
+    "title": "Turkey, US Conclude Talks on Anti-IS Operation Plan",
+    "lastModDate": "8/25/2015 11:47:42 GMT",
+    "description": "",
+    "abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33298672&text=full&view=json&embeds=true&segment=iphone",
+    "slug": "international-33298672",
+    "abcn:images": [ ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 10:22:14 GMT",
+    "abcn:section": "international",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/International/wireStory/lethal-weapons-interest-amid-police-shootings-33296432",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Less-lethal weapons draw new interest amid furor over police shootings of black men",
+"social-share-link": "http://abcn.ws/1MKb2lH",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33296432
+
+},
+"title": "Less-Lethal Weapons Get New Interest Amid Police Shootings",
+"lastModDate": "8/25/2015 10:22:28 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33296432&text=full&view=json&embeds=true&segment=iphone",
+"slug": "international-33296432",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/International/WireAP_988c0f3649634c7babe3b8afcaf07376_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "The Associated Press",
+        "imagecaption": "In this Thursday, July 30, 2015 photo, Salvatore Emma Jr., president and CEO of Micron Products, displays Blunt Impact Projectiles, one ready for use, left, and another after being fired during a test at the factory in Fitchburg, Mass. The projectiles utilize new technology developed by the company to provide law enforcement with less-lethal ammunition engineered to cushion and displace the force of impact, designed to cause pain and discomfort but not serious injury. The technology is part of a push to find ways for law enforcement to be able to use force with non-deadly means. (AP Photo/Steven Senne)"
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/International/WireAP_988c0f3649634c7babe3b8afcaf07376_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "The Associated Press",
+        "imagecaption": "In this Thursday, July 30, 2015 photo, Salvatore Emma Jr., president and CEO of Micron Products, displays Blunt Impact Projectiles, one ready for use, left, and another after being fired during a test at the factory in Fitchburg, Mass. The projectiles utilize new technology developed by the company to provide law enforcement with less-lethal ammunition engineered to cushion and displace the force of impact, designed to cause pain and discomfort but not serious injury. The technology is part of a push to find ways for law enforcement to be able to use force with non-deadly means. (AP Photo/Steven Senne)"
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/International/WireAP_988c0f3649634c7babe3b8afcaf07376_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "The Associated Press",
+                "imagecaption": "In this Thursday, July 30, 2015 photo, Salvatore Emma Jr., president and CEO of Micron Products, displays Blunt Impact Projectiles, one ready for use, left, and another after being fired during a test at the factory in Fitchburg, Mass. The projectiles utilize new technology developed by the company to provide law enforcement with less-lethal ammunition engineered to cushion and displace the force of impact, designed to cause pain and discomfort but not serious injury. The technology is part of a push to find ways for law enforcement to be able to use force with non-deadly means. (AP Photo/Steven Senne)"
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/24/2015 19:14:00 GMT",
+    "abcn:section": "business",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/Business/us-stock-markets-rough-ride-past-week/story?id=33287476",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Following the worst slump in the U.S. stock market in 18 months last week, stocks continued to plunge today related to the domestic and global economic concerns.",
+"social-share-link": "http://abcn.ws/1JvIBaf",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33287476
+
+},
+"title": "Why the US Stock Market Is Taking a Beating",
+"lastModDate": "8/24/2015 21:16:47 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33287476&text=full&view=json&embeds=true&segment=iphone",
+"slug": "business-33287476",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Business/gty_stock_exchange_friday_jc_150821_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Spencer Platt/Getty Images",
+        "imagecaption": "Traders work on the floor of the New York Stock Exchange on Aug. 21, 2015 in New York."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Business/gty_stock_exchange_friday_jc_150821_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Spencer Platt/Getty Images",
+        "imagecaption": "Traders work on the floor of the New York Stock Exchange on Aug. 21, 2015 in New York."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Business/gty_stock_exchange_friday_jc_150821_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "Spencer Platt/Getty Images",
+                "imagecaption": "Traders work on the floor of the New York Stock Exchange on Aug. 21, 2015 in New York."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 12:31:45 GMT",
+    "abcn:section": "sports",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/Sports/wireStory/indycar-confronts-safety-justin-wilson-fights-life-33290113",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Wilson, 37, was hit by a piece of debris in a race at Pocono Raceway.",
+"social-share-link": "http://abcn.ws/1NQbo8T",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33290113
+
+},
+"title": "IndyCar Driver Justin Wilson Dies of Head Injury",
+"lastModDate": "8/25/2015 12:31:59 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33290113&text=full&view=json&embeds=true&segment=iphone",
+"slug": "sports-33290113",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Sports/WireAP_67e9fcc5de6c4271a518970d1262684d_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "The Associated Press",
+        "imagecaption": "Justin Wilson, of England, walks on pit road during qualifying for Sunday's Pocono IndyCar 500 auto race, Saturday, Aug. 22, 2015, in Long Pond, Pa. Wilson was injured during Sunday's race and air lifted to the hospital. (AP Photo/Derik Hamilton)"
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Sports/WireAP_67e9fcc5de6c4271a518970d1262684d_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "The Associated Press",
+        "imagecaption": "Justin Wilson, of England, walks on pit road during qualifying for Sunday's Pocono IndyCar 500 auto race, Saturday, Aug. 22, 2015, in Long Pond, Pa. Wilson was injured during Sunday's race and air lifted to the hospital. (AP Photo/Derik Hamilton)"
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Sports/WireAP_67e9fcc5de6c4271a518970d1262684d_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "The Associated Press",
+                "imagecaption": "Justin Wilson, of England, walks on pit road during qualifying for Sunday's Pocono IndyCar 500 auto race, Saturday, Aug. 22, 2015, in Long Pond, Pa. Wilson was injured during Sunday's race and air lifted to the hospital. (AP Photo/Derik Hamilton)"
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 09:39:20 GMT",
+    "abcn:section": "international",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/International/wireStory/safari-guide-killed-lion-zimbabwe-33298116",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Safari guide killed by lion in Zimbabwe in same park that was home to Cecil",
+"social-share-link": "http://abcn.ws/1NGdASK",
+"guid": 
+
+    {
+        "isPermalink": "false",
+        "pcdata": 33298116
+    },
+    "title": "Safari Guide Killed by Lion in Zimbabwe",
+    "lastModDate": "8/25/2015 09:39:27 GMT",
+    "description": "",
+    "abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33298116&text=full&view=json&embeds=true&segment=iphone",
+    "slug": "international-33298116",
+    "abcn:images": [ ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 05:56:57 GMT",
+    "abcn:section": "us",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/US/wireStory/hearing-set-immigrant-charged-san-francisco-slaying-33296958",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Hearing set for immigrant accused in San Francisco slaying weeks after release from jail",
+"social-share-link": "http://abcn.ws/1KgEuiJ",
+"guid": 
+
+    {
+        "isPermalink": "false",
+        "pcdata": 33296958
+    },
+    "title": "Hearing Set for Immigrant Charged in San Francisco Slaying",
+    "lastModDate": "8/25/2015 05:57:12 GMT",
+    "description": "",
+    "abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33296958&text=full&view=json&embeds=true&segment=iphone",
+    "slug": "us-33296958",
+    "abcn:images": [ ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 12:13:43 GMT",
+    "abcn:section": "us",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/US/wireStory/tropical-storm-erika-approaching-leeward-islands-33298117",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Tropical Storm Erika is approaching the Leeward Islands; strengthening expected",
+"social-share-link": "http://abcn.ws/1NGdDhf",
+"guid": 
+
+    {
+        "isPermalink": "false",
+        "pcdata": 33298117
+    },
+    "title": "Tropical Storm Erika Approaching the Leeward Islands",
+    "lastModDate": "8/25/2015 12:13:56 GMT",
+    "description": "",
+    "abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33298117&text=full&view=json&embeds=true&segment=iphone",
+    "slug": "us-33298117",
+    "abcn:images": [ ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/24/2015 22:55:00 GMT",
+    "abcn:section": "politics",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/Politics/jeb-bush-anchor-babies-comment-related-asians/story?id=33292461",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Republican Candidate Jeb Bush Says his \"anchor babies\" comment referred more to Asian-Americans.",
+"social-share-link": "http://abcn.ws/1NQtsje",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33292461
+
+},
+"title": "Jeb Bush: 'Anchor Babies' Comment 'More Related to Asians'",
+"lastModDate": "8/24/2015 23:56:43 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33292461&text=full&view=json&embeds=true&segment=iphone",
+"slug": "politics-33292461",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Politics/GOP_2016_Bush_Swar_1_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Jim Cole/AP Photo",
+        "imagecaption": "Republican presidential candidate, former Florida Gov. Jeb Bush speaks during an education summit, Aug. 19, 2015, in Londonderry, N.H."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Politics/GOP_2016_Bush_Swar_1_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Jim Cole/AP Photo",
+        "imagecaption": "Republican presidential candidate, former Florida Gov. Jeb Bush speaks during an education summit, Aug. 19, 2015, in Londonderry, N.H."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Politics/GOP_2016_Bush_Swar_1_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "Jim Cole/AP Photo",
+                "imagecaption": "Republican presidential candidate, former Florida Gov. Jeb Bush speaks during an education summit, Aug. 19, 2015, in Londonderry, N.H."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 11:17:21 GMT",
+    "abcn:section": "international",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/International/wireStory/world-war-ii-plane-crew-remains-found-polish-33298675",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Soviet plane shot down in 1945, crew remains found in Polish river bed amid drought",
+"social-share-link": "http://abcn.ws/1LuqZL3",
+"guid": 
+
+    {
+        "isPermalink": "false",
+        "pcdata": 33298675
+    },
+    "title": "World War II Plane, Crew Remains Found in Polish River Bed",
+    "lastModDate": "8/25/2015 11:17:26 GMT",
+    "description": "",
+    "abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33298675&text=full&view=json&embeds=true&segment=iphone",
+    "slug": "international-33298675",
+    "abcn:images": [ ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 09:41:31 GMT",
+    "abcn:section": "technology",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/Technology/wireStory/russian-cancels-short-lived-wikipedia-ban-33298236",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Russia cancels Wikipedia ban that barely lasted a few hours",
+"social-share-link": "http://abcn.ws/1LunuV9",
+"guid": 
+
+    {
+        "isPermalink": "false",
+        "pcdata": 33298236
+    },
+    "title": "Russia Cancels Short-Lived Wikipedia Ban",
+    "lastModDate": "8/25/2015 09:41:42 GMT",
+    "description": "",
+    "abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33298236&text=full&view=json&embeds=true&segment=iphone",
+    "slug": "technology-33298236",
+    "abcn:images": [ ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 10:37:25 GMT",
+    "abcn:section": "health",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/Health/wireStory/mascot-fight-school-ohio-wire-33296894",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Bye to the tiger? Dispute between Ohio, high school over mascot goes down to the wire",
+"social-share-link": "http://abcn.ws/1JgbSSF",
+"guid": 
+
+    {
+        "isPermalink": "false",
+        "pcdata": 33296894
+    },
+    "title": "Mascot Fight Between School, Ohio Goes Down to the Wire",
+    "lastModDate": "8/25/2015 10:37:42 GMT",
+    "description": "",
+    "abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33296894&text=full&view=json&embeds=true&segment=iphone",
+    "slug": "health-33296894",
+    "abcn:images": [ ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/24/2015 16:43:44 GMT",
+    "abcn:section": "entertainment",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/Entertainment/wireStory/judge-set-rule-terrence-howard-divorce-settlement-33271824",
+    "abcn:logo": 
+
+{
+
+    "name": "Good Morning America",
+    "url": "http://abcnews.go.com/gma",
+    "alt": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_v9b.png",
+    "retina": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_retina_v9b.png",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_gma.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_gma@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_gma.png",
+    "code": "GMA",
+    "thumbnail-overlay-logo": "http://a.abcnews.com/images/Site/GMA_75x20_logo_updates_3.png",
+    "squeezeback-logo": "http://a.abcnews.com/images/Site/ABC_LOGO_color_GMA_200x24_2.png"
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "GMA",
+    "caid": "FunLeisure/Celeb"
+
+},
+"abcn:subtitle": "A judge found that the actor was coerced into signing documents by his ex-wife.",
+"social-share-link": "http://abcn.ws/1Eeevb1",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33271824
+
+},
+"title": "Judge Overturns Terrence Howard Divorce Settlement",
+"lastModDate": "8/24/2015 16:43:56 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33271824&text=full&view=json&embeds=true&segment=iphone",
+"slug": "entertainment-33271824",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Entertainment/GTY_terrance_howard_jef_130806_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Ben Gabbe/Getty Images",
+        "imagecaption": "Terrence Howard attends Lee Daniels' \"The Butler\" New York Premiere at Ziegfeld Theater, Aug. 5, 2013, in New York City. "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Entertainment/GTY_terrance_howard_jef_130806_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Ben Gabbe/Getty Images",
+        "imagecaption": "Terrence Howard attends Lee Daniels' \"The Butler\" New York Premiere at Ziegfeld Theater, Aug. 5, 2013, in New York City. "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Entertainment/GTY_terrance_howard_jef_130806_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "Ben Gabbe/Getty Images",
+                "imagecaption": "Terrence Howard attends Lee Daniels' \"The Butler\" New York Premiere at Ziegfeld Theater, Aug. 5, 2013, in New York City. "
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "slideshow",
+    "pubDate": "8/24/2015 16:01:02 GMT",
+    "link": "http://abcnews.go.com/Entertainment/photos/beyonce-knowles-years-13942479",
+    "abcn:logo": 
+
+{
+
+    "name": "Good Morning America",
+    "url": "http://abcnews.go.com/gma",
+    "alt": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_v9b.png",
+    "retina": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_retina_v9b.png",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_slideshow.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_slideshow@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_slideshow.png",
+    "code": "GMA",
+    "thumbnail-overlay-logo": "http://a.abcnews.com/images/Site/GMA_75x20_logo_updates_3.png",
+    "squeezeback-logo": "http://a.abcnews.com/images/Site/ABC_LOGO_color_GMA_200x24_2.png"
+
+},
+"abcn:photogallery": "http://abcnews.go.com/xmldata/feed/item?id=13942479&view=json&embeds=true&segment=iphone",
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "GMA",
+    "caid": "FunLeisure/Music"
+
+},
+"abcn:subtitle": "The life and times of Beyonce.",
+"social-share-link": "http://abcn.ws/1j7S5Y5",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 13942479
+
+},
+"title": "Beyonce and Blue Ivy Wear Matching Swimsuits on a Boat",
+"lastModDate": "8/24/2015 16:01:02 GMT",
+"abcn:slideshow-short-title": "Beyonce Through the Years",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=13942479&view=json&embeds=true&segment=iphone",
+"slug": "slideshow-entertainment-13942479",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Entertainment/Ht_beyone_bue_mm_150824_mn_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "beyonce/Instagram",
+        "imagecaption": "Beyonce posted this photo to Instagram, Aug.22, 2015, with a single blue heart emoji."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Entertainment/Ht_beyone_bue_mm_150824_mn_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "beyonce/Instagram",
+        "imagecaption": "Beyonce posted this photo to Instagram, Aug.22, 2015, with a single blue heart emoji."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Entertainment/Ht_beyone_bue_mm_150824_mn_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "beyonce/Instagram",
+                "imagecaption": "Beyonce posted this photo to Instagram, Aug.22, 2015, with a single blue heart emoji."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "wirestory",
+    "pubDate": "8/25/2015 13:08:29 GMT",
+    "abcn:section": "international",
+    "byline-credit": "",
+    "link": "http://abcnews.go.com/International/wireStory/160-marines-bulgaria-tanks-artillery-training-33302798",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "160 Marines arrive in Bulgaria with tanks and artillery for regular training with NATO allies",
+"social-share-link": "http://abcn.ws/1hbigTE",
+"guid": 
+
+            {
+                "isPermalink": "false",
+                "pcdata": 33302798
+            },
+            "title": "160 Marines in Bulgaria With Tanks, Artillery for Training",
+            "lastModDate": "8/25/2015 13:08:43 GMT",
+            "description": "",
+            "abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33302798&text=full&view=json&embeds=true&segment=iphone",
+            "slug": "international-33302798",
+            "abcn:images": [ ]
+        }
+    ]
+
+},
+{
+
+    "ref": "trending",
+    "title": "Top Trending",
+    "layouttype": "1",
+    "items": 
+
+[
+
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/24/2015 07:25:43 GMT",
+    "abcn:section": "technology",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/Technology/windows-95-game-changer-computer-users/story?id=33212036",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "Windows 95, the operating system update that changed the way millions of people interacted with their computers, was released 20 years ago today. ",
+"social-share-link": "http://abcn.ws/1JqPDZt",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33212036
+
+},
+"abcn:twitterbeancount": 492,
+"title": "Why Windows 95 Was a Game-Changer for Computer Users",
+"lastModDate": "8/25/2015 10:42:24 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33212036&text=full&view=json&embeds=true&segment=iphone",
+"slug": "tech-microsoft",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Technology/AP_Windows_95_mm_150820_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Gary Stewart/AP Photo",
+        "imagecaption": "Microsoft Chairman Bill Gates speaks in a tent at the Microsoft Windows 95 Launch Event, Aug. 24, 1995, in Redmond, Wash., on the company's corporate campus.  "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Technology/AP_Windows_95_mm_150820_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Gary Stewart/AP Photo",
+        "imagecaption": "Microsoft Chairman Bill Gates speaks in a tent at the Microsoft Windows 95 Launch Event, Aug. 24, 1995, in Redmond, Wash., on the company's corporate campus.  "
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Technology/AP_Windows_95_mm_150820_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "Gary Stewart/AP Photo",
+                "imagecaption": "Microsoft Chairman Bill Gates speaks in a tent at the Microsoft Windows 95 Launch Event, Aug. 24, 1995, in Redmond, Wash., on the company's corporate campus.  "
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/24/2015 19:40:00 GMT",
+    "abcn:section": "us",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/US/mans-concrete-home-survives-raging-wildfire-washington/story?id=33286398",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_abcnews@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_abcnews.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "",
+    "caid": ""
+
+},
+"abcn:subtitle": "A man’s cement home is still standing after surviving a raging wildfire.",
+"social-share-link": "http://abcn.ws/1I9EpHA",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33286398
+
+},
+"abcn:twitterbeancount": 456,
+"title": "Man's Concrete Home Survives Raging Wildfire",
+"lastModDate": "8/25/2015 11:35:56 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33286398&text=full&view=json&embeds=true&segment=iphone",
+"slug": "us-33286398",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/US/HT_KXLY_Fire_MEM_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "KXLY",
+        "imagecaption": "The cement monolithic dome, built by John Belles in 1999, survives fire on Aug. 22, 2015 in Omak, Wash."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/US/HT_KXLY_Fire_MEM_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "KXLY",
+        "imagecaption": "The cement monolithic dome, built by John Belles in 1999, survives fire on Aug. 22, 2015 in Omak, Wash."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/US/HT_KXLY_Fire_MEM_150824_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "KXLY",
+                "imagecaption": "The cement monolithic dome, built by John Belles in 1999, survives fire on Aug. 22, 2015 in Omak, Wash."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "video",
+    "pubDate": "8/24/2015 13:13:34 GMT",
+    "link": "http://abcnews.go.com/GMA/video/tim-cook-apples-initiative-change-lives-classroom-33277974",
+    "abcn:logo": 
+
+{
+
+    "name": "Good Morning America",
+    "url": "http://abcnews.go.com/gma",
+    "alt": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_v9b.png",
+    "retina": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_retina_v9b.png",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_video_gma.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_video_gma@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_video_gma.png",
+    "code": "GMA",
+    "thumbnail-overlay-logo": "http://a.abcnews.com/images/Site/GMA_75x20_logo_updates_3.png",
+    "squeezeback-logo": "http://a.abcnews.com/images/Site/ABC_LOGO_color_GMA_200x24_2.png"
+
+},
+"abcn:subtitle": "ABC News' Robin Roberts sat down with Apple CEO to discuss how the company is changing the way children learn in the classroom.",
+"social-share-link": "http://abcn.ws/1fB5VXG",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33277974
+
+},
+"abcn:twitterbeancount": 418,
+"title": "Tim Cook on Apple's Initiative to Change Lives in the Classroom",
+"lastModDate": "8/24/2015 13:46:03 GMT",
+"description": "",
+"abcn:datalink": "",
+"abcn:videos": 
+[
+
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150824_gma_roberts_830_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33277974,
+        "pubDate": "8/24/2015 13:13:34 GMT",
+        "duration": "260",
+        "adAssetId": "news-33277974",
+        "adKvShow": "GMA",
+        "show": "Good Morning America",
+        "thumbnail": "http://a.abcnews.com/images/GMA/150824_gma_roberts_fix_16x9t_384.jpg",
+        "slug": "video-gma-33277974",
+        "lastModDate": "8/24/2015 13:13:34 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:gma",
+        "analytics-video_start-prop3": "33277974|150824_gma_roberts_830_video|sec_gma~sec_business|Tim Cook on Apple&apos;s Initiative to Change Lives in the Classroom",
+        "analytics-video_start-eVar2": "33277974|150824_gma_roberts_830_video|sec_gma~sec_business|Tim Cook on Apple&apos;s Initiative to Change Lives in the Classroom",
+        "analytics-video_start-prop25": 33277974,
+        "analytics-video_start-eVar12": 33277974,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "",
+        "analytics-video_start-eVar20": "",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33277974|150824_gma_roberts_830_video|sec_gma~sec_business|Tim Cook on Apple&apos;s Initiative to Change Lives in the Classroom",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "",
+        "analytics": "33277974|150824_gma_roberts_830_video|sec_gma~sec_business|Tim Cook on Apple&apos;s Initiative to Change Lives in the Classroom",
+        "title-attr": "Tim Cook on Apple's Initiative to Change Lives in the Classroom",
+        "link-attr": "http://abcnews.go.com/GMA/video/tim-cook-apples-initiative-change-lives-classroom-33277974",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150824_gma_roberts_830_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33277974/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33277974/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F62783%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33277974%7C150824_gma_roberts_830_video%7Csec_gma%7Esec_business%7Ctim-cook-on-apples-initiative-to-change-lives-in-the-classroom%26v2%3D33277974%7C150824_gma_roberts_830_video%7Csec_gma%7Esec_business%7Ctim-cook-on-apples-initiative-to-change-lives-in-the-classroom%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33277974%26v12%3D33277974%26c16%3Dnone%26v20%3Dnone",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1fB5VXG"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_gma_jarvis_701_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33299477,
+        "pubDate": "8/25/2015 11:53:58 GMT",
+        "duration": "187",
+        "adAssetId": "news-33299477",
+        "adKvShow": "GMA",
+        "show": "Good Morning America",
+        "thumbnail": "http://a.abcnews.com/images/GMA/150825_gma_jarvis3_16x9t_384.jpg",
+        "slug": "video-gma-33299477",
+        "lastModDate": "8/25/2015 11:53:58 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:gma",
+        "analytics-video_start-prop3": "33299477|150825_gma_jarvis_701_video|sec_gma~sec_business|Stock Market Uncertainty Lingers After Big Ups and Downs",
+        "analytics-video_start-eVar2": "33299477|150825_gma_jarvis_701_video|sec_gma~sec_business|Stock Market Uncertainty Lingers After Big Ups and Downs",
+        "analytics-video_start-prop25": 33299477,
+        "analytics-video_start-eVar12": 33299477,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Business/PersonalFinance",
+        "analytics-video_start-eVar20": "videoadtree|Business/PersonalFinance",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33299477|150825_gma_jarvis_701_video|sec_gma~sec_business|Stock Market Uncertainty Lingers After Big Ups and Downs",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Business/PersonalFinance",
+        "analytics": "33299477|150825_gma_jarvis_701_video|sec_gma~sec_business|Stock Market Uncertainty Lingers After Big Ups and Downs",
+        "title-attr": "Stock Market Uncertainty Lingers After Big Ups and Downs",
+        "link-attr": "http://abcnews.go.com/GMA/video/stock-market-uncertainty-lingers-big-ups-downs-33299477",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_gma_jarvis_701_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33299477/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33299477/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F33839%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33299477%7C150825_gma_jarvis_701_video%7Csec_gma%7Esec_business%7Cstock-market-uncertainty-lingers-after-big-ups-and-downs%26v2%3D33299477%7C150825_gma_jarvis_701_video%7Csec_gma%7Esec_business%7Cstock-market-uncertainty-lingers-after-big-ups-and-downs%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33299477%26v12%3D33299477%26c16%3Dvideoadtree%7CBusiness%2FPersonalFinance%26v20%3Dvideoadtree%7CBusiness%2FPersonalFinance",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1Ic7Adi"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_ntl_apple_103_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33296433,
+        "pubDate": "8/25/2015 05:31:00 GMT",
+        "duration": "131",
+        "adAssetId": "news-33296433",
+        "adKvShow": "NL",
+        "show": "Nightline",
+        "thumbnail": "http://a.abcnews.com/images/Nightline/150825_ntl_apple_103_16x9t_384.jpg",
+        "slug": "video-nightline-33296433",
+        "lastModDate": "8/25/2015 05:31:00 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:nightline",
+        "analytics-video_start-prop3": "33296433|150825_ntl_apple_103_video|sec_nightline~sec_business|Nightline: Tim Cook&apos;s Focus on an Academic Revolution",
+        "analytics-video_start-eVar2": "33296433|150825_ntl_apple_103_video|sec_nightline~sec_business|Nightline: Tim Cook&apos;s Focus on an Academic Revolution",
+        "analytics-video_start-prop25": 33296433,
+        "analytics-video_start-eVar12": 33296433,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Business",
+        "analytics-video_start-eVar20": "videoadtree|Business",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33296433|150825_ntl_apple_103_video|sec_nightline~sec_business|Nightline: Tim Cook&apos;s Focus on an Academic Revolution",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Business",
+        "analytics": "33296433|150825_ntl_apple_103_video|sec_nightline~sec_business|Nightline: Tim Cook&apos;s Focus on an Academic Revolution",
+        "title-attr": "Tim Cook's Focus on an Academic Revolution",
+        "link-attr": "http://abcnews.go.com/Nightline/video/nightline-tim-cooks-focus-academic-revolution-33296433",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_ntl_apple_103_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/nightline-33296433/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/nightline-33296433/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F7636%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Anightline%26c3%3D33296433%7C150825_ntl_apple_103_video%7Csec_nightline%7Esec_business%7Ctim-cooks-focus-on-an-academic-revolution%26v2%3D33296433%7C150825_ntl_apple_103_video%7Csec_nightline%7Esec_business%7Ctim-cooks-focus-on-an-academic-revolution%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33296433%26v12%3D33296433%26c16%3Dvideoadtree%7CBusiness%26v20%3Dvideoadtree%7CBusiness",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1haxE2O"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+        {
+            "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_gma_palmer_810_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+            "videoId": 33301234,
+            "pubDate": "8/25/2015 12:44:17 GMT",
+            "duration": "152",
+            "adAssetId": "news-33301234",
+            "adKvShow": "GMA",
+            "show": "Good Morning America",
+            "thumbnail": "http://a.abcnews.com/images/GMA/150825_gma_palmer1_16x9t_384.jpg",
+            "slug": "video-gma-33301234",
+            "lastModDate": "8/25/2015 12:44:17 GMT",
+            "analytics-video_start-events": "event1",
+            "analytics-video_start-prop4": "video",
+            "analytics-video_start-channel": "abcn_app:gma",
+            "analytics-video_start-prop3": "33301234|150825_gma_palmer_810_video|sec_gma~sec_video|Plus-Sized Models Target of Online Harassment Through Altered Images",
+            "analytics-video_start-eVar2": "33301234|150825_gma_palmer_810_video|sec_gma~sec_video|Plus-Sized Models Target of Online Harassment Through Altered Images",
+            "analytics-video_start-prop25": 33301234,
+            "analytics-video_start-eVar12": 33301234,
+            "analytics-video_start-prop18": "player|videoplayer",
+            "analytics-video_start-eVar15": "player|videoplayer",
+            "analytics-video_start-prop16": "videoadtree|Lifestyle/BeautyFashion",
+            "analytics-video_start-eVar20": "videoadtree|Lifestyle/BeautyFashion",
+            "analytics-preroll_start-events": "event12",
+            "analytics-preroll_start-eVar2": "33301234|150825_gma_palmer_810_video|sec_gma~sec_video|Plus-Sized Models Target of Online Harassment Through Altered Images",
+            "analytics-preroll_start-eVar15": "player|videoplayer",
+            "analytics-preroll_start-eVar20": "videoadtree|Lifestyle/BeautyFashion",
+            "analytics": "33301234|150825_gma_palmer_810_video|sec_gma~sec_video|Plus-Sized Models Target of Online Harassment Through Altered Images",
+            "title-attr": "Plus-Sized Models Target of Online Harassment Through Altered Images",
+            "link-attr": "http://abcnews.go.com/GMA/video/sized-models-target-online-harassment-altered-images-33301234",
+            "previewUrl": "",
+            "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_gma_palmer_810_700.mp4",
+            "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33301234/content.once",
+            "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33301234/content.once",
+            "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F47091%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33301234%7C150825_gma_palmer_810_video%7Csec_gma%7Esec_video%7Cplus-sized-models-target-of-online-harassment-through-altered-images%26v2%3D33301234%7C150825_gma_palmer_810_video%7Csec_gma%7Esec_video%7Cplus-sized-models-target-of-online-harassment-through-altered-images%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33301234%26v12%3D33301234%26c16%3Dvideoadtree%7CLifestyle%2FBeautyFashion%26v20%3Dvideoadtree%7CLifestyle%2FBeautyFashion",
+            "umxbeacon-substitute": "",
+            "social-share-link": "http://abcn.ws/1hbemu1"
+        }
+    }
+
+],
+"slug": "video-gma-33277974",
+"abcn:datalinkSiteUrl": "",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/GMA/150824_gma_roberts_fix_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: Tim Cook on Apple's Initiative to Change Lives in the Classroom"
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/GMA/150824_gma_roberts_fix_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: Tim Cook on Apple's Initiative to Change Lives in the Classroom"
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/GMA/150824_gma_roberts_fix_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "ABCNews.com",
+                "imagecaption": "VIDEO: Tim Cook on Apple's Initiative to Change Lives in the Classroom"
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "story",
+    "pubDate": "8/24/2015 15:57:00 GMT",
+    "abcn:section": "international",
+    "byline-credit": "ABCNews",
+    "link": "http://abcnews.go.com/International/isis-levels-2000-year-syrian-temple-seconds/story?id=33283118",
+    "abcn:logo": 
+
+{
+
+    "name": "Good Morning America",
+    "url": "http://abcnews.go.com/gma",
+    "alt": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_v9b.png",
+    "retina": "http://a.abcnews.com/assets/images/ipad/app_logo_gma_retina_v9b.png",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_gma.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_gma@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_gma.png",
+    "code": "GMA",
+    "thumbnail-overlay-logo": "http://a.abcnews.com/images/Site/GMA_75x20_logo_updates_3.png",
+    "squeezeback-logo": "http://a.abcnews.com/images/Site/ABC_LOGO_color_GMA_200x24_2.png"
+
+},
+"abcn:ad": 
+{
+
+    "keywords": "",
+    "subsection": "",
+    "recipes": "",
+    "show": "GMA",
+    "caid": ""
+
+},
+"abcn:subtitle": "ISIS continues its reign of terror in Syria's ancient city of Palmyra. ",
+"social-share-link": "http://abcn.ws/1fBpCPj",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33283118
+
+},
+"abcn:twitterbeancount": 283,
+"title": "How ISIS Leveled 2,000-Year-Old Temple in Seconds",
+"lastModDate": "8/25/2015 09:28:25 GMT",
+"description": "",
+"abcn:datalink": "http://abcnews.go.com/xmldata/feed/item?id=33283118&text=full&view=json&embeds=true&segment=iphone",
+"slug": "international-33283118",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/International/gty_temple_lb_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Getty Images",
+        "imagecaption": "The temple of Baal-Shamin in Palmyra, Syria in an undated photo."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/International/gty_temple_lb_150824_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "Getty Images",
+        "imagecaption": "The temple of Baal-Shamin in Palmyra, Syria in an undated photo."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+                    {
+                        "type": "alt",
+                        "url": "http://a.abcnews.com/images/International/gty_temple_lb_150824_16x9t_240.jpg",
+                        "height": 135,
+                        "width": 240,
+                        "imagecredit": "Getty Images",
+                        "imagecaption": "The temple of Baal-Shamin in Palmyra, Syria in an undated photo."
+                    }
+                }
+            ]
+        }
+    ]
+
+},
+{
+
+    "ref": "none",
+    "title": "News Video",
+    "layouttype": "1",
+    "items": 
+
+[
+
+{
+
+    "abcn:contentType": "video",
+    "pubDate": "8/25/2015 09:17:20 GMT",
+    "link": "http://abcnews.go.com/Technology/video/techbytes-ashley-madison-offers-big-reward-track-hackers-33298186",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_video.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_video@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_video.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:subtitle": "The website hack revealed the personal information of 30 million customers.",
+"social-share-link": "http://abcn.ws/1LunvrY",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33298186
+
+},
+"title": "TechBytes: Ashley Madison Offers Big Reward to Track Down Hackers",
+"lastModDate": "8/25/2015 09:38:43 GMT",
+"description": "",
+"abcn:datalink": "",
+"abcn:videos": 
+[
+
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_atm_techbytes_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33298186,
+        "pubDate": "8/25/2015 09:17:20 GMT",
+        "duration": "53",
+        "adAssetId": "news-33298186",
+        "adKvShow": "",
+        "show": "",
+        "thumbnail": "http://a.abcnews.com/images/Technology/150825_atm_techbytes_16x9t_384.jpg",
+        "slug": "video-technology-33298186",
+        "lastModDate": "8/25/2015 09:17:20 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:technology",
+        "analytics-video_start-prop3": "33298186|150825_atm_techbytes_video|sec_technology|TechBytes: Ashley Madison Offers Big Reward to Track Down Hackers",
+        "analytics-video_start-eVar2": "33298186|150825_atm_techbytes_video|sec_technology|TechBytes: Ashley Madison Offers Big Reward to Track Down Hackers",
+        "analytics-video_start-prop25": 33298186,
+        "analytics-video_start-eVar12": 33298186,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Lifestyle/Technology",
+        "analytics-video_start-eVar20": "videoadtree|Lifestyle/Technology",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33298186|150825_atm_techbytes_video|sec_technology|TechBytes: Ashley Madison Offers Big Reward to Track Down Hackers",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Lifestyle/Technology",
+        "analytics": "33298186|150825_atm_techbytes_video|sec_technology|TechBytes: Ashley Madison Offers Big Reward to Track Down Hackers",
+        "title-attr": "TechBytes: Ashley Madison Offers Big Reward to Track Down Hackers",
+        "link-attr": "http://abcnews.go.com/Technology/video/techbytes-ashley-madison-offers-big-reward-track-hackers-33298186",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_atm_techbytes_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/technology-33298186/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/technology-33298186/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F55153%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Atechnology%26c3%3D33298186%7C150825_atm_techbytes_video%7Csec_technology%7Ctechbytes-ashley-madison-offers-big-reward-to-track-down-hackers%26v2%3D33298186%7C150825_atm_techbytes_video%7Csec_technology%7Ctechbytes-ashley-madison-offers-big-reward-to-track-down-hackers%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33298186%26v12%3D33298186%26c16%3Dvideoadtree%7CLifestyle%2FTechnology%26v20%3Dvideoadtree%7CLifestyle%2FTechnology",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1LunvrY"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150824_wnn_mix_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33273507,
+        "pubDate": "8/24/2015 08:17:31 GMT",
+        "duration": "171",
+        "adAssetId": "news-33273507",
+        "adKvShow": "",
+        "show": "",
+        "thumbnail": "http://a.abcnews.com/images/WNN/150824_wnn_mix_pic_16x9t_384.jpg",
+        "slug": "video-wnn-33273507",
+        "lastModDate": "8/24/2015 08:17:31 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:wnn",
+        "analytics-video_start-prop3": "33273507|150824_wnn_mix_video|sec_wnn~sec_entertainment|World News Now: Newborn Puppy Photo Shoot",
+        "analytics-video_start-eVar2": "33273507|150824_wnn_mix_video|sec_wnn~sec_entertainment|World News Now: Newborn Puppy Photo Shoot",
+        "analytics-video_start-prop25": 33273507,
+        "analytics-video_start-eVar12": 33273507,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Entertainment/Entertainment",
+        "analytics-video_start-eVar20": "videoadtree|Entertainment/Entertainment",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33273507|150824_wnn_mix_video|sec_wnn~sec_entertainment|World News Now: Newborn Puppy Photo Shoot",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Entertainment/Entertainment",
+        "analytics": "33273507|150824_wnn_mix_video|sec_wnn~sec_entertainment|World News Now: Newborn Puppy Photo Shoot",
+        "title-attr": "Newborn Puppy Photo Shoot",
+        "link-attr": "http://abcnews.go.com/WNN/video/world-news-now-newborn-puppy-photo-shoot-33273507",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150824_wnn_mix_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnn-33273507/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnn-33273507/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F97763%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Awnn%26c3%3D33273507%7C150824_wnn_mix_video%7Csec_wnn%7Esec_entertainment%7Cnewborn-puppy-photo-shoot%26v2%3D33273507%7C150824_wnn_mix_video%7Csec_wnn%7Esec_entertainment%7Cnewborn-puppy-photo-shoot%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33273507%26v12%3D33273507%26c16%3Dvideoadtree%7CEntertainment%2FEntertainment%26v20%3Dvideoadtree%7CEntertainment%2FEntertainment",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1EduC8i"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_gma_smith_818_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33301117,
+        "pubDate": "8/25/2015 12:39:09 GMT",
+        "duration": "261",
+        "adAssetId": "news-33301117",
+        "adKvShow": "GMA",
+        "show": "Good Morning America",
+        "thumbnail": "http://a.abcnews.com/images/GMA/150825_gma_smith_fix_16x9t_384.jpg",
+        "slug": "video-gma-33301117",
+        "lastModDate": "8/25/2015 12:39:09 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:gma",
+        "analytics-video_start-prop3": "33301117|150825_gma_smith_818_video|sec_gma~sec_entertainment|Ben Higgins Reveals All About Being the Newest Bachelor",
+        "analytics-video_start-eVar2": "33301117|150825_gma_smith_818_video|sec_gma~sec_entertainment|Ben Higgins Reveals All About Being the Newest Bachelor",
+        "analytics-video_start-prop25": 33301117,
+        "analytics-video_start-eVar12": 33301117,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Entertainment/TV",
+        "analytics-video_start-eVar20": "videoadtree|Entertainment/TV",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33301117|150825_gma_smith_818_video|sec_gma~sec_entertainment|Ben Higgins Reveals All About Being the Newest Bachelor",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Entertainment/TV",
+        "analytics": "33301117|150825_gma_smith_818_video|sec_gma~sec_entertainment|Ben Higgins Reveals All About Being the Newest Bachelor",
+        "title-attr": "Ben Higgins Reveals All About Being the Newest Bachelor",
+        "link-attr": "http://abcnews.go.com/GMA/video/ben-higgins-reveals-newest-bachelor-33301117",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_gma_smith_818_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33301117/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33301117/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F60450%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33301117%7C150825_gma_smith_818_video%7Csec_gma%7Esec_entertainment%7Cben-higgins-reveals-all-about-being-the-newest-bachelor%26v2%3D33301117%7C150825_gma_smith_818_video%7Csec_gma%7Esec_entertainment%7Cben-higgins-reveals-all-about-being-the-newest-bachelor%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33301117%26v12%3D33301117%26c16%3Dvideoadtree%7CEntertainment%2FTV%26v20%3Dvideoadtree%7CEntertainment%2FTV",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1hbdy8v"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+        {
+            "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150822_wn_roy1_646_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+            "videoId": 33254280,
+            "pubDate": "8/23/2015 02:07:39 GMT",
+            "duration": "109",
+            "adAssetId": "news-33254280",
+            "adKvShow": "WN",
+            "show": "World News Tonight",
+            "thumbnail": "http://a.abcnews.com/images/WNT/150822_wn_roy_16x9t_384.jpg",
+            "slug": "video-wnt-33254280",
+            "lastModDate": "8/23/2015 02:07:39 GMT",
+            "analytics-video_start-events": "event1",
+            "analytics-video_start-prop4": "video",
+            "analytics-video_start-channel": "abcn_app:wnt",
+            "analytics-video_start-prop3": "33254280|150822_wn_roy1_646_video|sec_wnt~sec_entertainment|Dr. Dre Apologizes Following the Release of &apos;Straight Outta Compton&apos;",
+            "analytics-video_start-eVar2": "33254280|150822_wn_roy1_646_video|sec_wnt~sec_entertainment|Dr. Dre Apologizes Following the Release of &apos;Straight Outta Compton&apos;",
+            "analytics-video_start-prop25": 33254280,
+            "analytics-video_start-eVar12": 33254280,
+            "analytics-video_start-prop18": "player|videoplayer",
+            "analytics-video_start-eVar15": "player|videoplayer",
+            "analytics-video_start-prop16": "videoadtree|Entertainment/Movies",
+            "analytics-video_start-eVar20": "videoadtree|Entertainment/Movies",
+            "analytics-preroll_start-events": "event12",
+            "analytics-preroll_start-eVar2": "33254280|150822_wn_roy1_646_video|sec_wnt~sec_entertainment|Dr. Dre Apologizes Following the Release of &apos;Straight Outta Compton&apos;",
+            "analytics-preroll_start-eVar15": "player|videoplayer",
+            "analytics-preroll_start-eVar20": "videoadtree|Entertainment/Movies",
+            "analytics": "33254280|150822_wn_roy1_646_video|sec_wnt~sec_entertainment|Dr. Dre Apologizes Following the Release of &apos;Straight Outta Compton&apos;",
+            "title-attr": "Dr. Dre Apologizes Following the Release of 'Straight Outta Compton'",
+            "link-attr": "http://abcnews.go.com/WNT/video/dr-dre-apologizes-release-straight-outta-compton-33254280",
+            "previewUrl": "",
+            "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150822_wn_roy1_646_700.mp4",
+            "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnt-33254280/content.once",
+            "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnt-33254280/content.once",
+            "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F40817%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Awnt%26c3%3D33254280%7C150822_wn_roy1_646_video%7Csec_wnt%7Esec_entertainment%7Cdr-dre-apologizes-following-the-release-of-straight-outta-compton%26v2%3D33254280%7C150822_wn_roy1_646_video%7Csec_wnt%7Esec_entertainment%7Cdr-dre-apologizes-following-the-release-of-straight-outta-compton%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33254280%26v12%3D33254280%26c16%3Dvideoadtree%7CEntertainment%2FMovies%26v20%3Dvideoadtree%7CEntertainment%2FMovies",
+            "umxbeacon-substitute": "",
+            "social-share-link": "http://abcn.ws/1PHZijm"
+        }
+    }
+
+],
+"slug": "video-technology-33298186",
+"abcn:datalinkSiteUrl": "",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/Technology/150825_atm_techbytes_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: The cheating website hack revealed the email address and credit card information of 30 million customers."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/Technology/150825_atm_techbytes_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: The cheating website hack revealed the email address and credit card information of 30 million customers."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/Technology/150825_atm_techbytes_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "ABCNews.com",
+                "imagecaption": "VIDEO: The cheating website hack revealed the email address and credit card information of 30 million customers."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "video",
+    "pubDate": "8/25/2015 08:33:56 GMT",
+    "link": "http://abcnews.go.com/WNN/video/world-news-now-ben-named-bachelor-33297913",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_video.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_video@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_video.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:subtitle": "Ben Higgins from season 11 of \"The Bachelorette\" was named as the next \"Bachelor,\" set to premiere in January.",
+"social-share-link": "http://abcn.ws/1KJx6bC",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33297913
+
+},
+"title": "Ben H. Named The New 'Bachelor'",
+"lastModDate": "8/25/2015 09:45:17 GMT",
+"description": "",
+"abcn:datalink": "",
+"abcn:videos": 
+[
+
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_wnn_skinny_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33297913,
+        "pubDate": "8/25/2015 08:33:56 GMT",
+        "duration": "282",
+        "adAssetId": "news-33297913",
+        "adKvShow": "",
+        "show": "",
+        "thumbnail": "http://a.abcnews.com/images/WNN/150825_wnn_skinny_pic_16x9t_384.jpg",
+        "slug": "video-wnn-33297913",
+        "lastModDate": "8/25/2015 08:33:56 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:wnn",
+        "analytics-video_start-prop3": "33297913|150825_wnn_skinny_video|sec_wnn~sec_entertainment|World News Now: Ben H. Named The New &apos;Bachelor&apos;",
+        "analytics-video_start-eVar2": "33297913|150825_wnn_skinny_video|sec_wnn~sec_entertainment|World News Now: Ben H. Named The New &apos;Bachelor&apos;",
+        "analytics-video_start-prop25": 33297913,
+        "analytics-video_start-eVar12": 33297913,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Entertainment/TV",
+        "analytics-video_start-eVar20": "videoadtree|Entertainment/TV",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33297913|150825_wnn_skinny_video|sec_wnn~sec_entertainment|World News Now: Ben H. Named The New &apos;Bachelor&apos;",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Entertainment/TV",
+        "analytics": "33297913|150825_wnn_skinny_video|sec_wnn~sec_entertainment|World News Now: Ben H. Named The New &apos;Bachelor&apos;",
+        "title-attr": "Ben H. Named The New 'Bachelor'",
+        "link-attr": "http://abcnews.go.com/WNN/video/world-news-now-ben-named-bachelor-33297913",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_wnn_skinny_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnn-33297913/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnn-33297913/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F23763%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Awnn%26c3%3D33297913%7C150825_wnn_skinny_video%7Csec_wnn%7Esec_entertainment%7Cben-h-named-the-new-bachelor%26v2%3D33297913%7C150825_wnn_skinny_video%7Csec_wnn%7Esec_entertainment%7Cben-h-named-the-new-bachelor%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33297913%26v12%3D33297913%26c16%3Dvideoadtree%7CEntertainment%2FTV%26v20%3Dvideoadtree%7CEntertainment%2FTV",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1KJx6bC"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150824_atm_apple_phones_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33283579,
+        "pubDate": "8/24/2015 15:39:02 GMT",
+        "duration": "20",
+        "adAssetId": "news-33283579",
+        "adKvShow": "",
+        "show": "",
+        "thumbnail": "http://a.abcnews.com/images/Technology/150824_atm_iphone_16x9t_384.jpg",
+        "slug": "video-technology-33283579",
+        "lastModDate": "8/24/2015 15:39:02 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:technology",
+        "analytics-video_start-prop3": "33283579|150824_atm_apple_phones_video|sec_technology|Apple Recalls iPhones Over Camera Defect",
+        "analytics-video_start-eVar2": "33283579|150824_atm_apple_phones_video|sec_technology|Apple Recalls iPhones Over Camera Defect",
+        "analytics-video_start-prop25": 33283579,
+        "analytics-video_start-eVar12": 33283579,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Lifestyle/Technology",
+        "analytics-video_start-eVar20": "videoadtree|Lifestyle/Technology",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33283579|150824_atm_apple_phones_video|sec_technology|Apple Recalls iPhones Over Camera Defect",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Lifestyle/Technology",
+        "analytics": "33283579|150824_atm_apple_phones_video|sec_technology|Apple Recalls iPhones Over Camera Defect",
+        "title-attr": "Apple Recalls iPhones Over Camera Defect",
+        "link-attr": "http://abcnews.go.com/Technology/video/apple-recalls-iphones-over-camera-defect-33283579",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150824_atm_apple_phones_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/technology-33283579/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/technology-33283579/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F95300%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Atechnology%26c3%3D33283579%7C150824_atm_apple_phones_video%7Csec_technology%7Capple-recalls-iphones-over-camera-defect%26v2%3D33283579%7C150824_atm_apple_phones_video%7Csec_technology%7Capple-recalls-iphones-over-camera-defect%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33283579%26v12%3D33283579%26c16%3Dvideoadtree%7CLifestyle%2FTechnology%26v20%3Dvideoadtree%7CLifestyle%2FTechnology",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1JrOnFo"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_gma_janis_830_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33301877,
+        "pubDate": "8/25/2015 12:57:05 GMT",
+        "duration": "137",
+        "adAssetId": "news-33301877",
+        "adKvShow": "GMA",
+        "show": "Good Morning America",
+        "thumbnail": "http://a.abcnews.com/images/GMA/150825_gma_janis2_16x9t_384.jpg",
+        "slug": "video-gma-33301877",
+        "lastModDate": "8/25/2015 12:57:05 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:gma",
+        "analytics-video_start-prop3": "33301877|150825_gma_janis_830_video|sec_gma~sec_video|How to Overcome &apos;Mommy Guilt&apos; While Balancing Work and Family",
+        "analytics-video_start-eVar2": "33301877|150825_gma_janis_830_video|sec_gma~sec_video|How to Overcome &apos;Mommy Guilt&apos; While Balancing Work and Family",
+        "analytics-video_start-prop25": 33301877,
+        "analytics-video_start-eVar12": 33301877,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Lifestyle/Parenting",
+        "analytics-video_start-eVar20": "videoadtree|Lifestyle/Parenting",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33301877|150825_gma_janis_830_video|sec_gma~sec_video|How to Overcome &apos;Mommy Guilt&apos; While Balancing Work and Family",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Lifestyle/Parenting",
+        "analytics": "33301877|150825_gma_janis_830_video|sec_gma~sec_video|How to Overcome &apos;Mommy Guilt&apos; While Balancing Work and Family",
+        "title-attr": "How to Overcome 'Mommy Guilt' While Balancing Work and Family",
+        "link-attr": "http://abcnews.go.com/GMA/video/healthy-balance-work-family-33301877",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_gma_janis_830_700.mp4",
+        "unicorn-ux-url": "",
+        "unicorn-url": "",
+        "umxbeacon": "",
+        "umxbeacon-substitute": "http://w88.go.com/b/ss/wdgwnewabcnewsiphoneapp/5.4/REDIR/3335430?D=..&url=http%3A%2F%2Fabcvod.abcnews.com%2Fi%2Fabcnews%2F2015%2F08%2F150825_gma_janis_830_%2C500%2C800%2C1200%2C1800%2C2500%2C3200%2C4500%2C.mp4.csmil%2Fmaster.m3u8%3Fb%3D500-2500%3FmediaName=33301877%7C150825_gma_janis_830_video%7Csec_gma%7Esec_video%7Chow-to-overcome-mommy-guilt-while-balancing-work-and-family&mediaLength=2%3A17&mediaPlayer=Smartphone&events=event1&ch=abcn_app%3Awnn&c3=33301877%7C150825_gma_janis_830_video%7Csec_gma%7Esec_video%7Chow-to-overcome-mommy-guilt-while-balancing-work-and-family&c18=player%7Cvideoplayer&v2=33301877%7C150825_gma_janis_830_video%7Csec_gma%7Esec_video%7Chow-to-overcome-mommy-guilt-while-balancing-work-and-family&v15=player%7Cvideoplayer",
+        "social-share-link": "http://abcn.ws/1NGsZ5j"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+        {
+            "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_gma_chat_847_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+            "videoId": 33302281,
+            "pubDate": "8/25/2015 13:06:31 GMT",
+            "duration": "86",
+            "adAssetId": "news-33302281",
+            "adKvShow": "GMA",
+            "show": "Good Morning America",
+            "thumbnail": "http://a.abcnews.com/images/GMA/150825_gma_chat_fix_16x9t_384.jpg",
+            "slug": "video-gma-33302281",
+            "lastModDate": "8/25/2015 13:06:31 GMT",
+            "analytics-video_start-events": "event1",
+            "analytics-video_start-prop4": "video",
+            "analytics-video_start-channel": "abcn_app:gma",
+            "analytics-video_start-prop3": "33302281|150825_gma_chat_847_video|sec_gma~sec_entertainment|Kip Moore Discusses 2nd Album &apos;Wild Ones&apos;",
+            "analytics-video_start-eVar2": "33302281|150825_gma_chat_847_video|sec_gma~sec_entertainment|Kip Moore Discusses 2nd Album &apos;Wild Ones&apos;",
+            "analytics-video_start-prop25": 33302281,
+            "analytics-video_start-eVar12": 33302281,
+            "analytics-video_start-prop18": "player|videoplayer",
+            "analytics-video_start-eVar15": "player|videoplayer",
+            "analytics-video_start-prop16": "videoadtree|Entertainment/Music/ConcertSeries",
+            "analytics-video_start-eVar20": "videoadtree|Entertainment/Music/ConcertSeries",
+            "analytics-preroll_start-events": "event12",
+            "analytics-preroll_start-eVar2": "33302281|150825_gma_chat_847_video|sec_gma~sec_entertainment|Kip Moore Discusses 2nd Album &apos;Wild Ones&apos;",
+            "analytics-preroll_start-eVar15": "player|videoplayer",
+            "analytics-preroll_start-eVar20": "videoadtree|Entertainment/Music/ConcertSeries",
+            "analytics": "33302281|150825_gma_chat_847_video|sec_gma~sec_entertainment|Kip Moore Discusses 2nd Album &apos;Wild Ones&apos;",
+            "title-attr": "Kip Moore Discusses 2nd Album 'Wild Ones'",
+            "link-attr": "http://abcnews.go.com/GMA/video/kip-moore-discusses-2nd-album-wild-33302281",
+            "previewUrl": "",
+            "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_gma_chat_847_700.mp4",
+            "unicorn-ux-url": "",
+            "unicorn-url": "",
+            "umxbeacon": "",
+            "umxbeacon-substitute": "http://w88.go.com/b/ss/wdgwnewabcnewsiphoneapp/5.4/REDIR/4762077?D=..&url=http%3A%2F%2Fabcvod.abcnews.com%2Fi%2Fabcnews%2F2015%2F08%2F150825_gma_chat_847_%2C500%2C800%2C1200%2C1800%2C2500%2C3200%2C4500%2C.mp4.csmil%2Fmaster.m3u8%3Fb%3D500-2500%3FmediaName=33302281%7C150825_gma_chat_847_video%7Csec_gma%7Esec_entertainment%7Ckip-moore-discusses-2nd-album-wild-ones&mediaLength=1%3A26&mediaPlayer=Smartphone&events=event1&ch=abcn_app%3Awnn&c3=33302281%7C150825_gma_chat_847_video%7Csec_gma%7Esec_entertainment%7Ckip-moore-discusses-2nd-album-wild-ones&c18=player%7Cvideoplayer&v2=33302281%7C150825_gma_chat_847_video%7Csec_gma%7Esec_entertainment%7Ckip-moore-discusses-2nd-album-wild-ones&v15=player%7Cvideoplayer",
+            "social-share-link": "http://abcn.ws/1hbhW7m"
+        }
+    }
+
+],
+"slug": "video-wnn-33297913",
+"abcn:datalinkSiteUrl": "",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/WNN/150825_wnn_skinny_pic_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: Ben Higgins from season 11 of \"The Bachelorette\" was named as the next \"Bachelor,\" set to premiere in January."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/WNN/150825_wnn_skinny_pic_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: Ben Higgins from season 11 of \"The Bachelorette\" was named as the next \"Bachelor,\" set to premiere in January."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/WNN/150825_wnn_skinny_pic_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "ABCNews.com",
+                "imagecaption": "VIDEO: Ben Higgins from season 11 of \"The Bachelorette\" was named as the next \"Bachelor,\" set to premiere in January."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "video",
+    "pubDate": "8/25/2015 08:35:00 GMT",
+    "link": "http://abcnews.go.com/WNN/video/world-news-now-puns-ikea-labels-33297962",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_video.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_video@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_video.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:subtitle": "A man at Ikea irritates his girlfriend by creating puns from the store's furniture labels.",
+"social-share-link": "http://abcn.ws/1KJxaZ1",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33297962
+
+},
+"title": "Puns From Ikea Labels",
+"lastModDate": "8/25/2015 09:42:56 GMT",
+"description": "",
+"abcn:datalink": "",
+"abcn:videos": 
+[
+
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_wnn_mix_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33297962,
+        "pubDate": "8/25/2015 08:35:00 GMT",
+        "duration": "173",
+        "adAssetId": "news-33297962",
+        "adKvShow": "",
+        "show": "",
+        "thumbnail": "http://a.abcnews.com/images/WNN/150825_wnn_mix_pic_16x9t_384.jpg",
+        "slug": "video-wnn-33297962",
+        "lastModDate": "8/25/2015 08:35:00 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:wnn",
+        "analytics-video_start-prop3": "33297962|150825_wnn_mix_video|sec_wnn~sec_entertainment|World News Now: Puns From Ikea Labels",
+        "analytics-video_start-eVar2": "33297962|150825_wnn_mix_video|sec_wnn~sec_entertainment|World News Now: Puns From Ikea Labels",
+        "analytics-video_start-prop25": 33297962,
+        "analytics-video_start-eVar12": 33297962,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Entertainment",
+        "analytics-video_start-eVar20": "videoadtree|Entertainment",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33297962|150825_wnn_mix_video|sec_wnn~sec_entertainment|World News Now: Puns From Ikea Labels",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Entertainment",
+        "analytics": "33297962|150825_wnn_mix_video|sec_wnn~sec_entertainment|World News Now: Puns From Ikea Labels",
+        "title-attr": "Puns From Ikea Labels",
+        "link-attr": "http://abcnews.go.com/WNN/video/world-news-now-puns-ikea-labels-33297962",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_wnn_mix_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnn-33297962/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnn-33297962/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F25193%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Awnn%26c3%3D33297962%7C150825_wnn_mix_video%7Csec_wnn%7Esec_entertainment%7Cpuns-from-ikea-labels%26v2%3D33297962%7C150825_wnn_mix_video%7Csec_wnn%7Esec_entertainment%7Cpuns-from-ikea-labels%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33297962%26v12%3D33297962%26c16%3Dvideoadtree%7CEntertainment%26v20%3Dvideoadtree%7CEntertainment",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1KJxaZ1"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150822_gma_pop_0749_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33247318,
+        "pubDate": "8/22/2015 14:17:43 GMT",
+        "duration": "152",
+        "adAssetId": "news-33247318",
+        "adKvShow": "GMA",
+        "show": "Good Morning America",
+        "thumbnail": "http://a.abcnews.com/images/GMA/150822_gma_pop_fix_0749_16x9t_384.jpg",
+        "slug": "video-gma-33247318",
+        "lastModDate": "8/22/2015 14:17:43 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:gma",
+        "analytics-video_start-prop3": "33247318|150822_gma_pop_0749_video|sec_gma~sec_entertainment|Netflix Bets Big on New Original Series &apos;The Crown&apos;",
+        "analytics-video_start-eVar2": "33247318|150822_gma_pop_0749_video|sec_gma~sec_entertainment|Netflix Bets Big on New Original Series &apos;The Crown&apos;",
+        "analytics-video_start-prop25": 33247318,
+        "analytics-video_start-eVar12": 33247318,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Entertainment/TV",
+        "analytics-video_start-eVar20": "videoadtree|Entertainment/TV",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33247318|150822_gma_pop_0749_video|sec_gma~sec_entertainment|Netflix Bets Big on New Original Series &apos;The Crown&apos;",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Entertainment/TV",
+        "analytics": "33247318|150822_gma_pop_0749_video|sec_gma~sec_entertainment|Netflix Bets Big on New Original Series &apos;The Crown&apos;",
+        "title-attr": "Netflix Bets Big on New Original Series 'The Crown'",
+        "link-attr": "http://abcnews.go.com/GMA/video/netflix-bets-big-original-series-crown-33247318",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150822_gma_pop_0749_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33247318/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33247318/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F86171%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33247318%7C150822_gma_pop_0749_video%7Csec_gma%7Esec_entertainment%7Cnetflix-bets-big-on-new-original-series-the-crown%26v2%3D33247318%7C150822_gma_pop_0749_video%7Csec_gma%7Esec_entertainment%7Cnetflix-bets-big-on-new-original-series-the-crown%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33247318%26v12%3D33247318%26c16%3Dvideoadtree%7CEntertainment%2FTV%26v20%3Dvideoadtree%7CEntertainment%2FTV",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1fy0mJC"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150823_gma_janis_730_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33260431,
+        "pubDate": "8/23/2015 13:50:18 GMT",
+        "duration": "118",
+        "adAssetId": "news-33260431",
+        "adKvShow": "GMA",
+        "show": "Good Morning America",
+        "thumbnail": "http://a.abcnews.com/images/GMA/150823_gma_janis_16x9t_384.jpg",
+        "slug": "video-gma-33260431",
+        "lastModDate": "8/23/2015 13:50:18 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:gma",
+        "analytics-video_start-prop3": "33260431|150823_gma_janis_730_video|sec_gma~sec_video|MLB Pitcher Wants to Make Game Safer for Fans",
+        "analytics-video_start-eVar2": "33260431|150823_gma_janis_730_video|sec_gma~sec_video|MLB Pitcher Wants to Make Game Safer for Fans",
+        "analytics-video_start-prop25": 33260431,
+        "analytics-video_start-eVar12": 33260431,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Entertainment/TV",
+        "analytics-video_start-eVar20": "videoadtree|Entertainment/TV",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33260431|150823_gma_janis_730_video|sec_gma~sec_video|MLB Pitcher Wants to Make Game Safer for Fans",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Entertainment/TV",
+        "analytics": "33260431|150823_gma_janis_730_video|sec_gma~sec_video|MLB Pitcher Wants to Make Game Safer for Fans",
+        "title-attr": "MLB Pitcher Wants to Make Game Safer for Fans",
+        "link-attr": "http://abcnews.go.com/GMA/video/mlb-pitcher-make-game-safer-fans-33260431",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150823_gma_janis_730_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33260431/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33260431/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F90956%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33260431%7C150823_gma_janis_730_video%7Csec_gma%7Esec_video%7Cmlb-pitcher-wants-to-make-game-safer-for-fans%26v2%3D33260431%7C150823_gma_janis_730_video%7Csec_gma%7Esec_video%7Cmlb-pitcher-wants-to-make-game-safer-for-fans%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33260431%26v12%3D33260431%26c16%3Dvideoadtree%7CEntertainment%2FTV%26v20%3Dvideoadtree%7CEntertainment%2FTV",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1LsRq6N"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+        {
+            "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150823_tw_jarvis_1028_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+            "videoId": 33263792,
+            "pubDate": "8/23/2015 17:59:12 GMT",
+            "duration": "80",
+            "adAssetId": "news-33263792",
+            "adKvShow": "TW",
+            "show": "This Week",
+            "thumbnail": "http://a.abcnews.com/images/ThisWeek/150823_tw_jarvis_1028_16x9t_384.jpg",
+            "slug": "video-thisweek-33263792",
+            "lastModDate": "8/23/2015 17:59:12 GMT",
+            "analytics-video_start-events": "event1",
+            "analytics-video_start-prop4": "video",
+            "analytics-video_start-channel": "abcn_app:thisweek",
+            "analytics-video_start-prop3": "33263792|150823_tw_jarvis_1028_video|sec_thisweek~sec_business|Dow Drops Over 500 Points Friday",
+            "analytics-video_start-eVar2": "33263792|150823_tw_jarvis_1028_video|sec_thisweek~sec_business|Dow Drops Over 500 Points Friday",
+            "analytics-video_start-prop25": 33263792,
+            "analytics-video_start-eVar12": 33263792,
+            "analytics-video_start-prop18": "player|videoplayer",
+            "analytics-video_start-eVar15": "player|videoplayer",
+            "analytics-video_start-prop16": "videoadtree|Business",
+            "analytics-video_start-eVar20": "videoadtree|Business",
+            "analytics-preroll_start-events": "event12",
+            "analytics-preroll_start-eVar2": "33263792|150823_tw_jarvis_1028_video|sec_thisweek~sec_business|Dow Drops Over 500 Points Friday",
+            "analytics-preroll_start-eVar15": "player|videoplayer",
+            "analytics-preroll_start-eVar20": "videoadtree|Business",
+            "analytics": "33263792|150823_tw_jarvis_1028_video|sec_thisweek~sec_business|Dow Drops Over 500 Points Friday",
+            "title-attr": "Dow Drops Over 500 Points Friday",
+            "link-attr": "http://abcnews.go.com/ThisWeek/video/dow-drops-500-points-friday-33263792",
+            "previewUrl": "",
+            "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150823_tw_jarvis_1028_700.mp4",
+            "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/thisweek-33263792/content.once",
+            "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/thisweek-33263792/content.once",
+            "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F49820%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Athisweek%26c3%3D33263792%7C150823_tw_jarvis_1028_video%7Csec_thisweek%7Esec_business%7Cdow-drops-over-500-points-friday%26v2%3D33263792%7C150823_tw_jarvis_1028_video%7Csec_thisweek%7Esec_business%7Cdow-drops-over-500-points-friday%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33263792%26v12%3D33263792%26c16%3Dvideoadtree%7CBusiness%26v20%3Dvideoadtree%7CBusiness",
+            "umxbeacon-substitute": "",
+            "social-share-link": "http://abcn.ws/1MMtKe6"
+        }
+    }
+
+],
+"slug": "video-wnn-33297962",
+"abcn:datalinkSiteUrl": "",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/WNN/150825_wnn_mix_pic_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: A man at Ikea irritates his girlfriend by creating puns from the store's furniture labels."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/WNN/150825_wnn_mix_pic_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: A man at Ikea irritates his girlfriend by creating puns from the store's furniture labels."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+            {
+                "type": "alt",
+                "url": "http://a.abcnews.com/images/WNN/150825_wnn_mix_pic_16x9t_240.jpg",
+                "height": 135,
+                "width": 240,
+                "imagecredit": "ABCNews.com",
+                "imagecaption": "VIDEO: A man at Ikea irritates his girlfriend by creating puns from the store's furniture labels."
+            }
+        }
+    ]
+
+},
+{
+
+    "abcn:contentType": "video",
+    "pubDate": "8/25/2015 08:31:56 GMT",
+    "link": "http://abcnews.go.com/WNN/video/world-news-now-food-trucks-green-33297862",
+    "abcn:logo": 
+
+{
+
+    "name": "",
+    "url": "",
+    "alt": "",
+    "retina": "",
+    "circle-logo": "http://a.abcnews.com/assets/images/mobile/logos/circle_video.png",
+    "circle-logo-retina": "http://a.abcnews.com/assets/images/mobile/logos/circle_video@2x.png",
+    "circle-logo-hdpi": "http://a.abcnews.com/assets/images/mobile/logos/hdpi_circle_video.png",
+    "code": "",
+    "thumbnail-overlay-logo": "",
+    "squeezeback-logo": ""
+
+},
+"abcn:subtitle": "ABC's Tina Trinh investigates the growing trend of eco-friendly meals on wheels.",
+"social-share-link": "http://abcn.ws/1NGc6HV",
+"guid": 
+{
+
+    "isPermalink": "false",
+    "pcdata": 33297862
+
+},
+"title": "Food Trucks Go Green",
+"lastModDate": "8/25/2015 09:41:37 GMT",
+"description": "",
+"abcn:datalink": "",
+"abcn:videos": 
+[
+
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150825_wnn_foodtruck_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33297862,
+        "pubDate": "8/25/2015 08:31:56 GMT",
+        "duration": "164",
+        "adAssetId": "news-33297862",
+        "adKvShow": "",
+        "show": "",
+        "thumbnail": "http://a.abcnews.com/images/WNN/150825_wnn_foodtruck_pic_16x9t_384.jpg",
+        "slug": "video-wnn-33297862",
+        "lastModDate": "8/25/2015 08:31:56 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:wnn",
+        "analytics-video_start-prop3": "33297862|150825_wnn_foodtruck_video|sec_wnn~sec_entertainment|World News Now: Food Trucks Go Green",
+        "analytics-video_start-eVar2": "33297862|150825_wnn_foodtruck_video|sec_wnn~sec_entertainment|World News Now: Food Trucks Go Green",
+        "analytics-video_start-prop25": 33297862,
+        "analytics-video_start-eVar12": 33297862,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Lifestyle/FoodRecipes",
+        "analytics-video_start-eVar20": "videoadtree|Lifestyle/FoodRecipes",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33297862|150825_wnn_foodtruck_video|sec_wnn~sec_entertainment|World News Now: Food Trucks Go Green",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Lifestyle/FoodRecipes",
+        "analytics": "33297862|150825_wnn_foodtruck_video|sec_wnn~sec_entertainment|World News Now: Food Trucks Go Green",
+        "title-attr": "Food Trucks Go Green",
+        "link-attr": "http://abcnews.go.com/WNN/video/world-news-now-food-trucks-green-33297862",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150825_wnn_foodtruck_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnn-33297862/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/wnn-33297862/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F39905%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Awnn%26c3%3D33297862%7C150825_wnn_foodtruck_video%7Csec_wnn%7Esec_entertainment%7Cfood-trucks-go-green%26v2%3D33297862%7C150825_wnn_foodtruck_video%7Csec_wnn%7Esec_entertainment%7Cfood-trucks-go-green%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33297862%26v12%3D33297862%26c16%3Dvideoadtree%7CLifestyle%2FFoodRecipes%26v20%3Dvideoadtree%7CLifestyle%2FFoodRecipes",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1NGc6HV"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150822_gma_haines_0716_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33247119,
+        "pubDate": "8/22/2015 13:44:36 GMT",
+        "duration": "111",
+        "adAssetId": "news-33247119",
+        "adKvShow": "GMA",
+        "show": "Good Morning America",
+        "thumbnail": "http://a.abcnews.com/images/GMA/150822_gma_haines_0716_16x9t_384.jpg",
+        "slug": "video-gma-33247119",
+        "lastModDate": "8/22/2015 13:44:36 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:gma",
+        "analytics-video_start-prop3": "33247119|150822_gma_haines_0716_video|sec_gma~sec_video|Phoenix Police Lead Incredible Rescue of Puppy Trapped in Pipe",
+        "analytics-video_start-eVar2": "33247119|150822_gma_haines_0716_video|sec_gma~sec_video|Phoenix Police Lead Incredible Rescue of Puppy Trapped in Pipe",
+        "analytics-video_start-prop25": 33247119,
+        "analytics-video_start-eVar12": 33247119,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "videoadtree|Lifestyle/Pets",
+        "analytics-video_start-eVar20": "videoadtree|Lifestyle/Pets",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33247119|150822_gma_haines_0716_video|sec_gma~sec_video|Phoenix Police Lead Incredible Rescue of Puppy Trapped in Pipe",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "videoadtree|Lifestyle/Pets",
+        "analytics": "33247119|150822_gma_haines_0716_video|sec_gma~sec_video|Phoenix Police Lead Incredible Rescue of Puppy Trapped in Pipe",
+        "title-attr": "Phoenix Police Lead Incredible Rescue of Puppy Trapped in Pipe",
+        "link-attr": "http://abcnews.go.com/GMA/video/phoenix-police-lead-incredible-rescue-puppy-trapped-pipe-33247119",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150822_gma_haines_0716_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33247119/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33247119/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F88536%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33247119%7C150822_gma_haines_0716_video%7Csec_gma%7Esec_video%7Cphoenix-police-lead-incredible-rescue-of-puppy-trapped-in-pipe%26v2%3D33247119%7C150822_gma_haines_0716_video%7Csec_gma%7Esec_video%7Cphoenix-police-lead-incredible-rescue-of-puppy-trapped-in-pipe%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33247119%26v12%3D33247119%26c16%3Dvideoadtree%7CLifestyle%2FPets%26v20%3Dvideoadtree%7CLifestyle%2FPets",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1fxY0L1"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+    {
+        "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150824_gma_roberts_830_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+        "videoId": 33277974,
+        "pubDate": "8/24/2015 13:13:34 GMT",
+        "duration": "260",
+        "adAssetId": "news-33277974",
+        "adKvShow": "GMA",
+        "show": "Good Morning America",
+        "thumbnail": "http://a.abcnews.com/images/GMA/150824_gma_roberts_fix_16x9t_384.jpg",
+        "slug": "video-gma-33277974",
+        "lastModDate": "8/24/2015 13:13:34 GMT",
+        "analytics-video_start-events": "event1",
+        "analytics-video_start-prop4": "video",
+        "analytics-video_start-channel": "abcn_app:gma",
+        "analytics-video_start-prop3": "33277974|150824_gma_roberts_830_video|sec_gma~sec_business|Tim Cook on Apple&apos;s Initiative to Change Lives in the Classroom",
+        "analytics-video_start-eVar2": "33277974|150824_gma_roberts_830_video|sec_gma~sec_business|Tim Cook on Apple&apos;s Initiative to Change Lives in the Classroom",
+        "analytics-video_start-prop25": 33277974,
+        "analytics-video_start-eVar12": 33277974,
+        "analytics-video_start-prop18": "player|videoplayer",
+        "analytics-video_start-eVar15": "player|videoplayer",
+        "analytics-video_start-prop16": "",
+        "analytics-video_start-eVar20": "",
+        "analytics-preroll_start-events": "event12",
+        "analytics-preroll_start-eVar2": "33277974|150824_gma_roberts_830_video|sec_gma~sec_business|Tim Cook on Apple&apos;s Initiative to Change Lives in the Classroom",
+        "analytics-preroll_start-eVar15": "player|videoplayer",
+        "analytics-preroll_start-eVar20": "",
+        "analytics": "33277974|150824_gma_roberts_830_video|sec_gma~sec_business|Tim Cook on Apple&apos;s Initiative to Change Lives in the Classroom",
+        "title-attr": "Tim Cook on Apple's Initiative to Change Lives in the Classroom",
+        "link-attr": "http://abcnews.go.com/GMA/video/tim-cook-apples-initiative-change-lives-classroom-33277974",
+        "previewUrl": "",
+        "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150824_gma_roberts_830_700.mp4",
+        "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33277974/content.once",
+        "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33277974/content.once",
+        "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F94553%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33277974%7C150824_gma_roberts_830_video%7Csec_gma%7Esec_business%7Ctim-cook-on-apples-initiative-to-change-lives-in-the-classroom%26v2%3D33277974%7C150824_gma_roberts_830_video%7Csec_gma%7Esec_business%7Ctim-cook-on-apples-initiative-to-change-lives-in-the-classroom%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33277974%26v12%3D33277974%26c16%3Dnone%26v20%3Dnone",
+        "umxbeacon-substitute": "",
+        "social-share-link": "http://abcn.ws/1fB5VXG"
+    }
+
+},
+{
+
+    "abcn:video": 
+
+        {
+            "url": "http://abcvod.abcnews.com/i/abcnews/2015/08/150824_fb_carvideo_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/master.m3u8?b=500-2500",
+            "videoId": 33289904,
+            "pubDate": "8/24/2015 20:36:00 GMT",
+            "duration": "68",
+            "adAssetId": "news-33289904",
+            "adKvShow": "GMA",
+            "show": "Good Morning America",
+            "thumbnail": "http://a.abcnews.com/images/GMA/150824_fb_carvideo_16x9t_384.jpg",
+            "slug": "video-gma-33289904",
+            "lastModDate": "8/24/2015 20:36:00 GMT",
+            "analytics-video_start-events": "event1",
+            "analytics-video_start-prop4": "video",
+            "analytics-video_start-channel": "abcn_app:gma",
+            "analytics-video_start-prop3": "33289904|150824_fb_carvideo_video|sec_gma~sec_video|Watch This Dad&apos;s Amazing Reaction After Son Chooses a Doll From the Toy Store",
+            "analytics-video_start-eVar2": "33289904|150824_fb_carvideo_video|sec_gma~sec_video|Watch This Dad&apos;s Amazing Reaction After Son Chooses a Doll From the Toy Store",
+            "analytics-video_start-prop25": 33289904,
+            "analytics-video_start-eVar12": 33289904,
+            "analytics-video_start-prop18": "player|videoplayer",
+            "analytics-video_start-eVar15": "player|videoplayer",
+            "analytics-video_start-prop16": "videoadtree|Lifestyle/Parenting",
+            "analytics-video_start-eVar20": "videoadtree|Lifestyle/Parenting",
+            "analytics-preroll_start-events": "event12",
+            "analytics-preroll_start-eVar2": "33289904|150824_fb_carvideo_video|sec_gma~sec_video|Watch This Dad&apos;s Amazing Reaction After Son Chooses a Doll From the Toy Store",
+            "analytics-preroll_start-eVar15": "player|videoplayer",
+            "analytics-preroll_start-eVar20": "videoadtree|Lifestyle/Parenting",
+            "analytics": "33289904|150824_fb_carvideo_video|sec_gma~sec_video|Watch This Dad&apos;s Amazing Reaction After Son Chooses a Doll From the Toy Store",
+            "title-attr": "Watch This Dad's Amazing Reaction After Son Chooses a Doll From the Toy Store",
+            "link-attr": "http://abcnews.go.com/GMA/video/watch-dads-amazing-reaction-son-chooses-doll-toy-33289904",
+            "previewUrl": "",
+            "mp4-url": "http://ondemand.abcnews.com/playback/abcnews/2015/08/150824_fb_carvideo_700.mp4",
+            "unicorn-ux-url": "http://onceux.unicornmedia.com/now/ads/vmap/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33289904/content.once",
+            "unicorn-url": "http://once.unicornmedia.com/now/od/auto/98330877-5095-4ac9-9a8c-7cdcd3944274/30a8cce9-d903-4583-8fa2-d0fa1496ae0e/gma-33289904/content.once",
+            "umxbeacon": "http%3A%2F%2Fw88.go.com%2Fb%2Fss%2Fwdgwnewabcnewsiphoneapp%2F5%2FOIP-2.1%2F21437%3Fevents%3Devent1%26pe%3Dlnk_o%26pev2%3DvideoStart%26c4%3Dvideo%26ch%3Dabcn_app%3Agma%26c3%3D33289904%7C150824_fb_carvideo_video%7Csec_gma%7Esec_video%7Cwatch-this-dads-amazing-reaction-after-son-chooses-a-doll-from-the-toy-store%26v2%3D33289904%7C150824_fb_carvideo_video%7Csec_gma%7Esec_video%7Cwatch-this-dads-amazing-reaction-after-son-chooses-a-doll-from-the-toy-store%26c18%3Dplayer%7Cvideoplayer%26v15%3Dplayer%7Cvideoplayer%26c25%3D33289904%26v12%3D33289904%26c16%3Dvideoadtree%7CLifestyle%2FParenting%26v20%3Dvideoadtree%7CLifestyle%2FParenting",
+            "umxbeacon-substitute": "",
+            "social-share-link": "http://abcn.ws/1I9QPzj"
+        }
+    }
+
+],
+"slug": "video-wnn-33297862",
+"abcn:datalinkSiteUrl": "",
+"abcn:images": 
+[
+
+{
+
+    "abcn:image": 
+
+    {
+        "type": "detail",
+        "url": "http://a.abcnews.com/images/WNN/150825_wnn_foodtruck_pic_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: ABC's Tina Trinh investigates the growing trend of eco-friendly meals on wheels."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+    {
+        "type": "retina",
+        "url": "http://a.abcnews.com/images/WNN/150825_wnn_foodtruck_pic_16x9_608.jpg",
+        "height": 342,
+        "width": 608,
+        "imagecredit": "ABCNews.com",
+        "imagecaption": "VIDEO: ABC's Tina Trinh investigates the growing trend of eco-friendly meals on wheels."
+    }
+
+},
+{
+
+    "abcn:image": 
+
+                            {
+                                "type": "alt",
+                                "url": "http://a.abcnews.com/images/WNN/150825_wnn_foodtruck_pic_16x9t_240.jpg",
+                                "height": 135,
+                                "width": 240,
+                                "imagecredit": "ABCNews.com",
+                                "imagecaption": "VIDEO: ABC's Tina Trinh investigates the growing trend of eco-friendly meals on wheels."
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+
+}

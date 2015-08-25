@@ -9,7 +9,7 @@
 import Foundation
 import ObjectMapper
 
-class InboxAnalytics: Mappable {
+class Analytics: Mappable {
     var abcn_analytics_pageName: String?
     var abcn_analytics_eVar16: String?
     var abcn_analytics_channel: String?
@@ -22,7 +22,7 @@ class InboxAnalytics: Mappable {
     var abcn_analytics_eVar17: String?
 
     class func newInstance(map: Map) -> Mappable? {
-        return InboxAnalytics()
+        return Analytics()
     }
 
     func mapping(map: Map) {

@@ -39,6 +39,18 @@ class MapperTests: XCTestCase {
             }
         }
     }
+    
+    func testTopStoriesMap() {
+        var jsonContent: NSDictionary = loadJson("topstories.json")
+        if let feed = Mapper<FeedCategory>().map(jsonContent) {
+            XCTAssert(feed.lastBuildDate != nil, "Last build date is null")
+            XCTAssert(feed.channels?.count == 4, "Channel count = 4")
+            XCTAssert(feed.channels?[0].items?.count == 8, "Channel items count = 8")
+            XCTAssert(feed.channels?[0].items?[0].abcnImages?.count == 3, "Image items = 3")
+            
+        }
+        
+    }
 
     func loadJson(fileName: String) -> NSDictionary {
         var fileContent: NSDictionary = [:]
