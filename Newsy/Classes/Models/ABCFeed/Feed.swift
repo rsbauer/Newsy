@@ -17,6 +17,10 @@ class Feed: Mappable {
     var rewindUnwind: Story?
     var alerts: Story?
     var ad: Ad?
+    var inboxAnalytics: InboxAnalytics?
+    var apis: Apis?
+    var dayparts: Array<DayPart>?
+    var events: Array<Event>?
     
     var shareArticleEmailBody: String?
     var shareAlertEmailSubject: String?
@@ -36,7 +40,6 @@ class Feed: Mappable {
     var liveBlogIsLivePollingIntervalInSeconds: Int?
     var checkForLiveBlogPollingIntervalInMinutes: Int?
     var liveBlogQuietTimerInMinutes: Int?
-    
     var ratingsRequestDate: NSDate?
     var displayOutbrain: Bool?
     var outbrainPosition: Int?
@@ -57,6 +60,10 @@ class Feed: Mappable {
         rewindUnwind <- map["rewindUnwind"]
         alerts <- map["alerts"]
         ad <- map["ad"]
+        inboxAnalytics <- map["inbox-analytics"]
+        apis <- map["apis"]
+        dayparts <- map["dayparts"]
+        events <- map["events"]
         
         radioStreamConfig <- map["radio-stream-config"]
         displayOutbrain <- (map["displayOutbrain"], BoolTransform())
@@ -64,7 +71,6 @@ class Feed: Mappable {
         outbrainHeadlines <- map["outbrainHeadlines"]
         outbrainPrivacy <- map["outbrainPrivacy"]
         ratingsRequestDate <- (map["ratingsRequestDate"], IntegerDateTransform())
-
         shareArticleEmailBody <- map["shareArticleEmailBody"]
         shareAlertEmailSubject <- map["shareAlertEmailSubject"]
         shareAlertEmailBody <- map["shareAlertEmailBody"]

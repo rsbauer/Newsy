@@ -31,7 +31,8 @@ class MapperTests: XCTestCase {
             XCTAssert(newsFeed.ratingsRequestDate != nil, "ratingsRequestDate is null")  // 20140813
             XCTAssert(newsFeed.displayOutbrain == true, "displayOutbrain was not true")
             XCTAssert(newsFeed.sections?.count == 15, "Section count was not 15")
-            XCTAssert(newsFeed.shows?.count == 5, "Show count was not 5")
+            XCTAssert(newsFeed.dayparts?.count == 7, "Dayparts count was not 7")
+            XCTAssert(newsFeed.events?.count == 13, "Event count was not 13")
             var expectedRatingsRequestDate = NSDate().from(year: 2014, month: 8, day: 13)
             if let actualRatingsRequestDate = newsFeed.ratingsRequestDate {
                 XCTAssert(actualRatingsRequestDate.isEqualToDate(expectedRatingsRequestDate) == true, "ratingsRequestDate not equal")  // 20140813
