@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import SDWebImage
 
 class StoriesTableViewController: UITableViewController {
     var stories: Array<ChannelItem> = Array<ChannelItem>()
@@ -53,12 +54,27 @@ class StoriesTableViewController: UITableViewController {
     }
 
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-        let cell = tableView.dequeueReusableCellWithIdentifier("newsStory", forIndexPath: indexPath) as! UITableViewCell
+        let cell = tableView.dequeueReusableCellWithIdentifier("HeadlineTableViewCell", forIndexPath: indexPath) as! HeadlineTableViewCell
 
         // Configure the cell...
         var item = self.stories[indexPath.row]
+        var imageUrl = ""
+        if item.abcn_images?.count > 0 {
+            imageUrl = item.abcn_images?[0].abcn_image?.url ?? ""
+            println(imageUrl)
+        }
+        
         var title = item.title ?? ""
-        cell.textLabel?.text = title
+        cell.titleLabel?.text = title
+        
+        if imageUrl != "" {
+            cell.storyImageView?.sd_setImageWithURL(NSURL(string: imageUrl), placeholderImage: UIImage(named: "Loading"))
+            cell.imageViewWidthConstraint.constant = 87
+        }
+        else {
+            cell.storyImageView.image = nil
+            cell.imageViewWidthConstraint.constant = 0
+        }
         
         return cell
     }
@@ -111,6 +127,7 @@ class StoriesTableViewController: UITableViewController {
     func topStoriesDidLoad(topStories: Story) {
         var newsService = NewsService()
         var url = topStories.url ?? ""
+        println("URL: \(url)")
         newsService.getNews(ABCNewsStoryService(storyUrl: url)).response = {
             (result: AnyObject?, error: NSError?) in
             var feedCategory = result as! FeedCategory

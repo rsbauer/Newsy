@@ -2,30 +2,51 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7706" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="gYv-Ua-aua">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
         <!--Newsy-->
         <scene sceneID="lBh-Id-aUY">
             <objects>
                 <tableViewController title="Newsy" id="l3b-Gr-Eca" customClass="StoriesTableViewController" customModule="Newsy" customModuleProvider="target" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="qKv-MO-mLL">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="88" sectionHeaderHeight="22" sectionFooterHeight="22" id="qKv-MO-mLL">
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <prototypes>
-                            <tableViewCell contentMode="scaleToFill" restorationIdentifier="newsStory" selectionStyle="default" indentationWidth="10" reuseIdentifier="newsStory" textLabel="kHM-Fw-ciw" style="IBUITableViewCellStyleDefault" id="CGZ-ZK-PBt">
+                            <tableViewCell contentMode="scaleToFill" restorationIdentifier="newsStory" selectionStyle="default" indentationWidth="10" reuseIdentifier="HeadlineTableViewCell" rowHeight="88" id="CGZ-ZK-PBt" customClass="HeadlineTableViewCell" customModule="Newsy" customModuleProvider="target">
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="CGZ-ZK-PBt" id="Y2X-5k-5DB">
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
-                                        <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="Title" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="kHM-Fw-ciw">
-                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="16"/>
-                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                        <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Xrg-EK-epc">
+                                            <rect key="frame" x="0.0" y="0.0" width="87" height="87"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="87" id="qly-z9-wf3"/>
+                                                <constraint firstAttribute="width" constant="87" id="tsZ-No-mhw"/>
+                                            </constraints>
+                                        </imageView>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GEC-Po-CFv">
+                                            <rect key="frame" x="95" y="8" width="497" height="71"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                             <nil key="highlightedColor"/>
                                         </label>
                                     </subviews>
+                                    <constraints>
+                                        <constraint firstItem="Xrg-EK-epc" firstAttribute="top" secondItem="Y2X-5k-5DB" secondAttribute="topMargin" constant="-8" id="6KI-Km-TXQ"/>
+                                        <constraint firstItem="Xrg-EK-epc" firstAttribute="leading" secondItem="Y2X-5k-5DB" secondAttribute="leadingMargin" constant="-8" id="CAI-Ma-JoK"/>
+                                        <constraint firstItem="GEC-Po-CFv" firstAttribute="leading" secondItem="Xrg-EK-epc" secondAttribute="trailing" constant="8" id="UbQ-e3-wb5"/>
+                                        <constraint firstItem="GEC-Po-CFv" firstAttribute="top" secondItem="Y2X-5k-5DB" secondAttribute="topMargin" id="UzL-Vg-j1Q"/>
+                                        <constraint firstItem="GEC-Po-CFv" firstAttribute="trailing" secondItem="Y2X-5k-5DB" secondAttribute="trailingMargin" id="cN4-ga-sEb"/>
+                                        <constraint firstItem="GEC-Po-CFv" firstAttribute="bottom" secondItem="Y2X-5k-5DB" secondAttribute="bottomMargin" id="d5H-Li-28g"/>
+                                    </constraints>
                                 </tableViewCellContentView>
+                                <connections>
+                                    <outlet property="imageViewWidthConstraint" destination="tsZ-No-mhw" id="6qf-w5-BUv"/>
+                                    <outlet property="storyImageView" destination="Xrg-EK-epc" id="X9u-oT-XNL"/>
+                                    <outlet property="titleLabel" destination="GEC-Po-CFv" id="OFa-Jg-Kp0"/>
+                                </connections>
                             </tableViewCell>
                         </prototypes>
                         <connections>

@@ -8,6 +8,7 @@ target 'Newsy' do
 	pod 'Parse'
 	pod 'ParseCrashReporting'
 	pod 'ObjectMapper'
+	pod 'SDWebImage'
 end
 
 target 'NewsyTests' do

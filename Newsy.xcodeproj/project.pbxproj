@@ -29,6 +29,7 @@
 		666448CF1B851EFD00DCBC67 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448CE1B851EFD00DCBC67 /* libsqlite3.dylib */; };
 		666448D11B851F0D00DCBC67 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448D01B851F0D00DCBC67 /* Accounts.framework */; };
 		666448D31B851F1300DCBC67 /* Social.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 666448D21B851F1300DCBC67 /* Social.framework */; };
+		666E96171B8E1423008739FE /* HeadlineTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 666E96161B8E1423008739FE /* HeadlineTableViewCell.swift */; };
 		6680B7841B860743006E2A46 /* iphoneV21.json in Resources */ = {isa = PBXBuildFile; fileRef = 6680B7831B860743006E2A46 /* iphoneV21.json */; };
 		6680B7861B86081C006E2A46 /* MapperTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7851B86081C006E2A46 /* MapperTests.swift */; };
 		6680B7881B860837006E2A46 /* ServiceTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B7871B860837006E2A46 /* ServiceTests.swift */; };
@@ -43,6 +44,9 @@
 		6680B79D1B866F58006E2A46 /* IntegerDateTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B79B1B866F58006E2A46 /* IntegerDateTransform.swift */; };
 		6680B7A01B875832006E2A46 /* DateExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B79F1B875832006E2A46 /* DateExtensions.swift */; };
 		6680B7A11B875832006E2A46 /* DateExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6680B79F1B875832006E2A46 /* DateExtensions.swift */; };
+		66B6616B1B8E186100BE794A /* HeadlineTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 666E96161B8E1423008739FE /* HeadlineTableViewCell.swift */; };
+		66B6616D1B8E346600BE794A /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66B6616C1B8E346600BE794A /* ImageIO.framework */; };
+		66B661701B8E53A300BE794A /* Loading.png in Resources */ = {isa = PBXBuildFile; fileRef = 66B6616F1B8E53A300BE794A /* Loading.png */; };
 		66C48A4D1B8B897900CBCFF4 /* BoolTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48A4C1B8B897900CBCFF4 /* BoolTransform.swift */; };
 		66C48A4E1B8B8E9600CBCFF4 /* BoolTransform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48A4C1B8B897900CBCFF4 /* BoolTransform.swift */; };
 		66C48A7A1B8CA31400CBCFF4 /* topstories.json in Resources */ = {isa = PBXBuildFile; fileRef = 66C48A791B8CA31400CBCFF4 /* topstories.json */; };
@@ -143,6 +147,7 @@
 		666448CE1B851EFD00DCBC67 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		666448D01B851F0D00DCBC67 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
 		666448D21B851F1300DCBC67 /* Social.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Social.framework; path = System/Library/Frameworks/Social.framework; sourceTree = SDKROOT; };
+		666E96161B8E1423008739FE /* HeadlineTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HeadlineTableViewCell.swift; path = Views/HeadlineTableViewCell.swift; sourceTree = "<group>"; };
 		6680B7831B860743006E2A46 /* iphoneV21.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = iphoneV21.json; path = Responses/iphoneV21.json; sourceTree = "<group>"; };
 		6680B7851B86081C006E2A46 /* MapperTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapperTests.swift; sourceTree = "<group>"; };
 		6680B7871B860837006E2A46 /* ServiceTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceTests.swift; sourceTree = "<group>"; };
@@ -151,6 +156,8 @@
 		6680B7971B866532006E2A46 /* feeds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = feeds.plist; path = "Supporting Files/Config/feeds.plist"; sourceTree = "<group>"; };
 		6680B79B1B866F58006E2A46 /* IntegerDateTransform.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = IntegerDateTransform.swift; path = Classes/Models/Transforms/IntegerDateTransform.swift; sourceTree = "<group>"; };
 		6680B79F1B875832006E2A46 /* DateExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DateExtensions.swift; path = Classes/Common/DateExtensions.swift; sourceTree = "<group>"; };
+		66B6616C1B8E346600BE794A /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		66B6616F1B8E53A300BE794A /* Loading.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Loading.png; path = "Supporting Files/Images/Loading.png"; sourceTree = "<group>"; };
 		66C48A4C1B8B897900CBCFF4 /* BoolTransform.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BoolTransform.swift; path = Classes/Models/Transforms/BoolTransform.swift; sourceTree = "<group>"; };
 		66C48A791B8CA31400CBCFF4 /* topstories.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = topstories.json; path = Responses/topstories.json; sourceTree = "<group>"; };
 		66C48A7C1B8CA36400CBCFF4 /* story.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = story.json; path = Responses/story.json; sourceTree = "<group>"; };
@@ -190,6 +197,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				66B6616D1B8E346600BE794A /* ImageIO.framework in Frameworks */,
 				666448D31B851F1300DCBC67 /* Social.framework in Frameworks */,
 				666448D11B851F0D00DCBC67 /* Accounts.framework in Frameworks */,
 				666448CF1B851EFD00DCBC67 /* libsqlite3.dylib in Frameworks */,
@@ -249,6 +257,7 @@
 		6662C1371B84DEE000D4997B /* Newsy */ = {
 			isa = PBXGroup;
 			children = (
+				666E96151B8E13F4008739FE /* Views */,
 				66C48AD31B8CF98300CBCFF4 /* ViewControllers */,
 				6680B77C1B860369006E2A46 /* Classes */,
 				6662C13A1B84DEE000D4997B /* AppDelegate.swift */,
@@ -265,6 +274,7 @@
 		6662C1381B84DEE000D4997B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				66B6616E1B8E538900BE794A /* Images */,
 				6680B7961B866524006E2A46 /* Config */,
 				6662C1391B84DEE000D4997B /* Info.plist */,
 			);
@@ -289,6 +299,14 @@
 				6662C1521B84DEE000D4997B /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		666E96151B8E13F4008739FE /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				666E96161B8E1423008739FE /* HeadlineTableViewCell.swift */,
+			);
+			name = Views;
 			sourceTree = "<group>";
 		};
 		6680B77C1B860369006E2A46 /* Classes */ = {
@@ -357,6 +375,14 @@
 			name = Common;
 			sourceTree = "<group>";
 		};
+		66B6616E1B8E538900BE794A /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				66B6616F1B8E53A300BE794A /* Loading.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		66C48A511B8B980F00CBCFF4 /* ABCFeed */ = {
 			isa = PBXGroup;
 			children = (
@@ -423,6 +449,7 @@
 		F8A5656E6B11B2C6436252A9 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				66B6616C1B8E346600BE794A /* ImageIO.framework */,
 				666448D21B851F1300DCBC67 /* Social.framework */,
 				666448D01B851F0D00DCBC67 /* Accounts.framework */,
 				666448CE1B851EFD00DCBC67 /* libsqlite3.dylib */,
@@ -530,6 +557,7 @@
 				6680B7981B866532006E2A46 /* feeds.plist in Resources */,
 				66C48A7D1B8CA36500CBCFF4 /* story.json in Resources */,
 				6662C1431B84DEE000D4997B /* Main.storyboard in Resources */,
+				66B661701B8E53A300BE794A /* Loading.png in Resources */,
 				66C48A7A1B8CA31400CBCFF4 /* topstories.json in Resources */,
 				6662C1481B84DEE000D4997B /* LaunchScreen.xib in Resources */,
 				6662C1451B84DEE000D4997B /* Images.xcassets in Resources */,
@@ -624,6 +652,7 @@
 				66C48AB01B8CBB9800CBCFF4 /* ChannelItem.swift in Sources */,
 				66C48AB31B8CBEDA00CBCFF4 /* DateTimeDateStringTransform.swift in Sources */,
 				6662C13E1B84DEE000D4997B /* Newsy.xcdatamodeld in Sources */,
+				666E96171B8E1423008739FE /* HeadlineTableViewCell.swift in Sources */,
 				66C48A9A1B8CA60A00CBCFF4 /* Event.swift in Sources */,
 				6680B7931B8636CC006E2A46 /* NewsService.swift in Sources */,
 				66C48AAD1B8CA9F000CBCFF4 /* DateStringTransform.swift in Sources */,
@@ -667,6 +696,7 @@
 				66C48AB11B8CBB9800CBCFF4 /* ChannelItem.swift in Sources */,
 				66C48AB41B8CBEDA00CBCFF4 /* DateTimeDateStringTransform.swift in Sources */,
 				6680B7861B86081C006E2A46 /* MapperTests.swift in Sources */,
+				66B6616B1B8E186100BE794A /* HeadlineTableViewCell.swift in Sources */,
 				66C48A9B1B8CA60A00CBCFF4 /* Event.swift in Sources */,
 				6680B7941B864B12006E2A46 /* ABCNewsService.swift in Sources */,
 				66C48AAE1B8CA9F000CBCFF4 /* DateStringTransform.swift in Sources */,
