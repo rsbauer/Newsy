@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		66518A301B8DF7C2004C03F9 /* ABCNewsStoryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66518A2F1B8DF7C2004C03F9 /* ABCNewsStoryService.swift */; };
+		66518A311B8DF7C2004C03F9 /* ABCNewsStoryService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66518A2F1B8DF7C2004C03F9 /* ABCNewsStoryService.swift */; };
 		6662C13B1B84DEE000D4997B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6662C13A1B84DEE000D4997B /* AppDelegate.swift */; };
 		6662C13E1B84DEE000D4997B /* Newsy.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6662C13C1B84DEE000D4997B /* Newsy.xcdatamodeld */; };
 		6662C1401B84DEE000D4997B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6662C13F1B84DEE000D4997B /* ViewController.swift */; };
@@ -99,6 +101,8 @@
 		66C48ACF1B8CDF3E00CBCFF4 /* ABCNVideo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48ACD1B8CDF3E00CBCFF4 /* ABCNVideo.swift */; };
 		66C48AD11B8CE02400CBCFF4 /* ABCNRelated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48AD01B8CE02400CBCFF4 /* ABCNRelated.swift */; };
 		66C48AD21B8CE02400CBCFF4 /* ABCNRelated.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48AD01B8CE02400CBCFF4 /* ABCNRelated.swift */; };
+		66C48ADB1B8CFD4800CBCFF4 /* StoriesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48ADA1B8CFD4800CBCFF4 /* StoriesTableViewController.swift */; };
+		66C48ADC1B8CFD4800CBCFF4 /* StoriesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66C48ADA1B8CFD4800CBCFF4 /* StoriesTableViewController.swift */; };
 		CC93AC4FB6EF1ADFCEB7D26A /* Pods_Newsy.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 /* End PBXBuildFile section */
 
@@ -114,6 +118,7 @@
 
 /* Begin PBXFileReference section */
 		0CA4115989F5562EB2FB5AEC /* Pods-Newsy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Newsy.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Newsy/Pods-Newsy.debug.xcconfig"; sourceTree = "<group>"; };
+		66518A2F1B8DF7C2004C03F9 /* ABCNewsStoryService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNewsStoryService.swift; path = Classes/Services/ABCNewsStoryService.swift; sourceTree = "<group>"; };
 		6662C1351B84DEE000D4997B /* Newsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Newsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6662C1391B84DEE000D4997B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6662C13A1B84DEE000D4997B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -175,6 +180,7 @@
 		66C48ACA1B8CD7BB00CBCFF4 /* ABCNAuthorDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNAuthorDetail.swift; path = Classes/Models/ABCFeed/Story/ABCNAuthorDetail.swift; sourceTree = "<group>"; };
 		66C48ACD1B8CDF3E00CBCFF4 /* ABCNVideo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNVideo.swift; path = Classes/Models/ABCFeed/Story/ABCNVideo.swift; sourceTree = "<group>"; };
 		66C48AD01B8CE02400CBCFF4 /* ABCNRelated.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ABCNRelated.swift; path = Classes/Models/ABCFeed/Story/ABCNRelated.swift; sourceTree = "<group>"; };
+		66C48ADA1B8CFD4800CBCFF4 /* StoriesTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = StoriesTableViewController.swift; path = ViewControllers/StoriesTableViewController.swift; sourceTree = "<group>"; };
 		74DB296ADBA56F3DCC0E5D75 /* Pods_Newsy.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Newsy.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E124B60CA4E1768F76062950 /* Pods-Newsy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Newsy.release.xcconfig"; path = "Pods/Target Support Files/Pods-Newsy/Pods-Newsy.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -243,6 +249,7 @@
 		6662C1371B84DEE000D4997B /* Newsy */ = {
 			isa = PBXGroup;
 			children = (
+				66C48AD31B8CF98300CBCFF4 /* ViewControllers */,
 				6680B77C1B860369006E2A46 /* Classes */,
 				6662C13A1B84DEE000D4997B /* AppDelegate.swift */,
 				6662C13F1B84DEE000D4997B /* ViewController.swift */,
@@ -318,6 +325,7 @@
 			children = (
 				6680B7901B8636AE006E2A46 /* ABCNewsService.swift */,
 				6680B7921B8636CC006E2A46 /* NewsService.swift */,
+				66518A2F1B8DF7C2004C03F9 /* ABCNewsStoryService.swift */,
 			);
 			name = Services;
 			sourceTree = "<group>";
@@ -402,6 +410,14 @@
 				66C48AD01B8CE02400CBCFF4 /* ABCNRelated.swift */,
 			);
 			name = Story;
+			sourceTree = "<group>";
+		};
+		66C48AD31B8CF98300CBCFF4 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				66C48ADA1B8CFD4800CBCFF4 /* StoriesTableViewController.swift */,
+			);
+			name = ViewControllers;
 			sourceTree = "<group>";
 		};
 		F8A5656E6B11B2C6436252A9 /* Frameworks */ = {
@@ -620,6 +636,7 @@
 				6680B7A01B875832006E2A46 /* DateExtensions.swift in Sources */,
 				66C48A9C1B8CA60A00CBCFF4 /* Feed.swift in Sources */,
 				66C48AC81B8CD70E00CBCFF4 /* ABCNAuthor.swift in Sources */,
+				66C48ADB1B8CFD4800CBCFF4 /* StoriesTableViewController.swift in Sources */,
 				66C48AAA1B8CA70900CBCFF4 /* Channel.swift in Sources */,
 				66C48A921B8CA60A00CBCFF4 /* Apis.swift in Sources */,
 				66C48ABC1B8CC2B500CBCFF4 /* Guid.swift in Sources */,
@@ -627,6 +644,7 @@
 				66C48AA21B8CA60A00CBCFF4 /* Show.swift in Sources */,
 				66C48A4D1B8B897900CBCFF4 /* BoolTransform.swift in Sources */,
 				6662C13B1B84DEE000D4997B /* AppDelegate.swift in Sources */,
+				66518A301B8DF7C2004C03F9 /* ABCNewsStoryService.swift in Sources */,
 				66C48ABF1B8CC3F600CBCFF4 /* ABCNFeedImage.swift in Sources */,
 				66C48AB61B8CC08200CBCFF4 /* ABCNLogo.swift in Sources */,
 				66C48A901B8CA60A00CBCFF4 /* Analytics.swift in Sources */,
@@ -661,6 +679,7 @@
 				6680B7A11B875832006E2A46 /* DateExtensions.swift in Sources */,
 				66C48A9D1B8CA60A00CBCFF4 /* Feed.swift in Sources */,
 				66C48AC91B8CD70E00CBCFF4 /* ABCNAuthor.swift in Sources */,
+				66C48ADC1B8CFD4800CBCFF4 /* StoriesTableViewController.swift in Sources */,
 				66C48AAB1B8CA70900CBCFF4 /* Channel.swift in Sources */,
 				66C48A931B8CA60A00CBCFF4 /* Apis.swift in Sources */,
 				66C48ABD1B8CC2B500CBCFF4 /* Guid.swift in Sources */,
@@ -668,6 +687,7 @@
 				66C48AA31B8CA60A00CBCFF4 /* Show.swift in Sources */,
 				6680B7881B860837006E2A46 /* ServiceTests.swift in Sources */,
 				66C48A4E1B8B8E9600CBCFF4 /* BoolTransform.swift in Sources */,
+				66518A311B8DF7C2004C03F9 /* ABCNewsStoryService.swift in Sources */,
 				66C48AC01B8CC3F600CBCFF4 /* ABCNFeedImage.swift in Sources */,
 				66C48AB71B8CC08200CBCFF4 /* ABCNLogo.swift in Sources */,
 				66C48A911B8CA60A00CBCFF4 /* Analytics.swift in Sources */,
