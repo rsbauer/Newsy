@@ -61,7 +61,6 @@ class StoriesTableViewController: UITableViewController {
         var imageUrl = ""
         if item.abcn_images?.count > 0 {
             imageUrl = item.abcn_images?[0].abcn_image?.url ?? ""
-            println(imageUrl)
         }
         
         var title = item.title ?? ""
@@ -127,7 +126,6 @@ class StoriesTableViewController: UITableViewController {
     func topStoriesDidLoad(topStories: Story) {
         var newsService = NewsService()
         var url = topStories.url ?? ""
-        println("URL: \(url)")
         newsService.getNews(ABCNewsStoryService(storyUrl: url)).response = {
             (result: AnyObject?, error: NSError?) in
             var feedCategory = result as! FeedCategory
